@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T22:55:45.492418+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-10-22T23:45:44.816090+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 106,
       "titles": [
         {
           "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时43分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[13时43分 ~ 23时45分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时55分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时45分]"
         },
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普称中美元首未必会见面，外交部回应",
+          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时45分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -73,6 +84,31 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时38分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2176974",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时45分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成贸易协议",
+          "url": "https://www.toutiao.com/trending/7563496326190022665/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时45分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -125,29 +161,6 @@
           "time_info": "[00时49分 ~ 19时33分]"
         },
         {
-          "title": "特朗普称中美元首未必会见面，外交部回应",
-          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成贸易协议",
-          "url": "https://www.toutiao.com/trending/7563496326190022665/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
-        },
-        {
           "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
           "url": "https://news.ifeng.com/c/8neiMKW5b9G",
           "source": "凤凰网",
@@ -158,18 +171,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时46分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2176974",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -183,11 +184,12 @@
             12,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时55分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时45分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -230,6 +232,20 @@
           "time_info": "[11时38分 ~ 13时44分]"
         },
         {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            5,
+            16,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普向特朗普政府索赔",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
           "source": "bilibili 热搜",
@@ -242,17 +258,15 @@
           "time_info": "[18时49分 ~ 22时55分]"
         },
         {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
+          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
+          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            16,
-            24
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 23时45分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -289,17 +303,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时34分]"
-        },
-        {
-          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
-          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时55分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -447,6 +450,17 @@
           "time_info": "[01时35分 ~ 03时29分]"
         },
         {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 23时45分]"
+        },
+        {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
           "url": "https://flash.jin10.com/detail/20251022003806338800",
           "source": "金十数据",
@@ -508,17 +522,6 @@
           "time_info": "[11时38分 ~ 13时44分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时55分]"
-        },
-        {
           "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
           "url": "https://wallstreetcn.com/livenews/2991360",
           "source": "华尔街见闻-快讯",
@@ -532,6 +535,18 @@
           "time_info": "[01时35分 ~ 03时29分]"
         },
         {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普为何在中美会晤问题上反复横跳",
           "url": "https://www.toutiao.com/trending/7563926657778585142/",
           "source": "今日头条",
@@ -542,6 +557,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时57分 ~ 17时43分]"
+        },
+        {
+          "title": "美企敦促最高法院裁决特朗普关税非法",
+          "url": "https://www.toutiao.com/trending/7564008619885202987/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时45分]"
         },
         {
           "title": "特朗普：暂时不想见普京 浪费时间",
@@ -700,16 +728,16 @@
           "time_info": "[02时54分 ~ 03时29分]"
         },
         {
-          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
-          "source": "澎湃新闻",
+          "title": "特朗普开始创造性破坏白宫",
+          "url": "https://www.toutiao.com/trending/7563916723658244105/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            13
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时55分]"
+          "time_info": "[22时55分 ~ 23时45分]"
         },
         {
           "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
@@ -795,18 +823,6 @@
           "time_info": "[15时35分 ~ 15时36分]"
         },
         {
-          "title": "美企敦促最高法院裁决特朗普关税非法",
-          "url": "https://www.toutiao.com/trending/7564008619885202987/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时55分]"
-        },
-        {
           "title": "特朗普向特朗普政府索赔2.3亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -816,6 +832,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时53分 ~ 22时55分]"
+        },
+        {
+          "title": "希拉里痛批特朗普2.5亿美元改造白宫",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%97%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE2.5%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B9%E9%80%A0%E7%99%BD%E5%AE%AB",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时45分]"
         },
         {
           "title": "据英国金融时报：美国财政部的一项分析发现，特朗普政府的经济政策使美国走上了通过削减支出和提高关税收入来改善财政前景的道路，从而缩小其不断扩大的赤字。",
@@ -950,17 +978,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "特朗普开始创造性破坏白宫",
-          "url": "https://www.toutiao.com/trending/7563916723658244105/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "特朗普政府拟利用油价低位时机回补100万桶战略石油储备",
           "url": "https://flash.jin10.com/detail/20251022004643324800",
           "source": "金十数据",
@@ -981,6 +998,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "美国众议长约翰逊：（由于特朗普政府关门问题）我们在一些必要的事务上丧失时间。",
+          "url": "https://wallstreetcn.com/livenews/2991995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "阿根廷股指在早盘迄今呈现出V形反转，在美上市阿根廷ETF目前跌0.5%。 美国贸易代表格利尔对媒体表示，阿根廷牛肉不会大量涌入美国，尽管特朗普政府在这个问题上与阿方存在争议。",
+          "url": "https://wallstreetcn.com/livenews/2991994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
@@ -1014,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美国总统特朗普：已经扑灭八场战争，正在处理第九个。",
@@ -1093,6 +1143,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "特朗普与巴西总统卢拉拟在马来西亚举行会晤",
+          "url": "https://flash.jin10.com/detail/20251022230016167800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普政府支持美国公司与哈萨克斯坦钨矿资源谈判",
           "url": "https://flash.jin10.com/detail/20251022015900344800",
           "source": "金十数据",
@@ -1102,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：我昨天与参议院共和党领袖图恩进行了交谈，他们也和特朗普总统通了电话。他们在临时拨款法案（CR）问题上完全一致。",
+          "url": "https://flash.jin10.com/detail/20251022225628730800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美国总统特朗普：（美联储政策）利率太高。 “美联储有一个真正呆板的人……他（美联储主席鲍威尔）很快就要离开了。”",
@@ -1181,21 +1253,21 @@
           "time_info": "00时49分"
         },
         {
-          "title": "希拉里痛批特朗普2.5亿美元改造白宫",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%97%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE2.5%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B9%E9%80%A0%E7%99%BD%E5%AE%AB",
-          "source": "百度热搜",
+          "title": "金十整理：美国政府停摆仍看不到尽头——特朗普拒绝会面、11次投票全部失败、联邦雇员薪水断供",
+          "url": "https://flash.jin10.com/detail/20251022225012577800",
+          "source": "金十数据",
           "ranks": [
-            30
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1205,8 +1277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 22时55分]"
+          "appearance_count": 16,
+          "time_info": "[07时34分 ~ 23时45分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -1266,6 +1338,19 @@
           "time_info": "[04时43分 ~ 05时32分]"
         },
         {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时45分]"
+        },
+        {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251022003625123800",
           "source": "金十数据",
@@ -1276,18 +1361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时35分]"
-        },
-        {
-          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时55分]"
         },
         {
           "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
@@ -1359,6 +1432,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2991953",
           "source": "华尔街见闻-快讯",
@@ -1420,7 +1504,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1464,7 +1548,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1493,260 +1577,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "国际金价突然大跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 16时57分]"
-        },
-        {
-          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
-          "url": "https://www.cls.cn/detail/2176453",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 16时57分]"
-        },
-        {
-          "title": "金价大跌有人一夜亏5万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D11%26cate%3D5001%26pos%3D11%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26band_rank%3D11%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26display_time%3D1761104229%26pre_seqid%3D17611042289870147411377",
-          "source": "微博",
-          "ranks": [
-            11,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 17时43分]"
-        },
-        {
-          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
-          "url": "https://www.zhihu.com/question/1964024451826943233",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 17时43分]"
-        },
-        {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 17时43分]"
-        },
-        {
-          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
-          "url": "https://wallstreetcn.com/articles/3757632",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
-        },
-        {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时34分]"
-        },
-        {
-          "title": "今日各大金店金价",
-          "url": "https://www.toutiao.com/trending/7563938982417927721/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时55分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26realpos%3D23%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D23%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
-          "source": "微博",
-          "ranks": [
-            23,
-            24,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 22时55分]"
-        },
-        {
-          "title": "金价上涨叠加禁令解除 埃塞俄比亚黄金出口激增并首超咖啡出口",
-          "url": "https://flash.jin10.com/detail/20251022213154956800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时53分]"
-        },
-        {
-          "title": "金价这轮会跌多久",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E8%BF%99%E8%BD%AE%E4%BC%9A%E8%B7%8C%E5%A4%9A%E4%B9%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E8%25BF%2599%25E8%25BD%25AE%25E4%25BC%259A%25E8%25B7%258C%25E5%25A4%259A%25E4%25B9%2585%2523%26dgr%3D0%26cate%3D5001%26realpos%3D12%26stream_entry_id%3D31%26pos%3D12%26flag%3D1%26band_rank%3D12%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1761123430%26pre_seqid%3D17611234302900317140104",
-          "source": "微博",
-          "ranks": [
-            12,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时49分]"
-        },
-        {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D30%26flag%3D0%26pos%3D30%26cate%3D5001%26realpos%3D30%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761079204%26pre_seqid%3D176107920452003119502114",
-          "source": "微博",
-          "ranks": [
-            30,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 07时34分]"
-        },
-        {
-          "title": "金价银价急跌",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
-          "source": "微博",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 11时38分]"
-        },
-        {
-          "title": "金价银价为什么同时下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
-          "url": "https://www.cls.cn/detail/2176255",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "金价剧烈波动 普通投资者如何应对",
-          "url": "https://www.toutiao.com/trending/7563858730983362102/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "金价下跌的关键原因是什么",
-          "url": "https://www.toutiao.com/trending/7564035029894958638/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）上海金午盘价为951.41元/克，较国际金价(951.84元/克)，低0.43元/克",
-          "url": "https://flash.jin10.com/detail/20251022150250450800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "金价剧烈波动 投资者心态分化",
-          "url": "https://www.toutiao.com/trending/7563866097959570985/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1758,8 +1590,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时55分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时45分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -1834,6 +1666,17 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
+          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
+          "url": "https://wallstreetcn.com/livenews/2992002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "谷歌：英国竞争与市场管理局（CMA）的举措“令人失望、不成比例、没有依据”。",
           "url": "https://wallstreetcn.com/livenews/2991956",
           "source": "华尔街见闻-快讯",
@@ -1843,6 +1686,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "谷歌发布了Willow芯片的量子计算突破",
+          "url": "https://wallstreetcn.com/livenews/2991999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
+          "url": "https://flash.jin10.com/detail/20251022230757813800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
+          "url": "https://flash.jin10.com/detail/20251022230602930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）：将谷歌(GOOG.O)、苹果(AAPL.O)纳入短信市场调查范围并非认定其存在不当行为。",
@@ -1878,6 +1765,17 @@
           "time_info": "21时53分"
         },
         {
+          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
+          "url": "https://flash.jin10.com/detail/20251022230157213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "谷歌(GOOG.O)：英国竞争与市场管理局认定谷歌移动平台具有战略市场地位，我们完全看不到这一认定的合理性。",
           "url": "https://flash.jin10.com/detail/20251022210845241800",
           "source": "金十数据",
@@ -1909,6 +1807,259 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 16时57分]"
+        },
+        {
+          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
+          "url": "https://www.cls.cn/detail/2176453",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 16时57分]"
+        },
+        {
+          "title": "金价大跌有人一夜亏5万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E5%A4%9C%E4%BA%8F5%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D11%26cate%3D5001%26pos%3D11%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26band_rank%3D11%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E5%25A4%259C%25E4%25BA%258F5%25E4%25B8%2587%2523%26display_time%3D1761104229%26pre_seqid%3D17611042289870147411377",
+          "source": "微博",
+          "ranks": [
+            11,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 17时43分]"
+        },
+        {
+          "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/1964024451826943233",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 17时43分]"
+        },
+        {
+          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
+          "url": "https://wallstreetcn.com/articles/3757632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时45分]"
+        },
+        {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 17时43分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26realpos%3D23%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D23%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
+          "source": "微博",
+          "ranks": [
+            23,
+            24,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 23时45分]"
+        },
+        {
+          "title": "今日各大金店金价",
+          "url": "https://www.toutiao.com/trending/7563938982417927721/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时57分 ~ 22时55分]"
+        },
+        {
+          "title": "金价上涨叠加禁令解除 埃塞俄比亚黄金出口激增并首超咖啡出口",
+          "url": "https://flash.jin10.com/detail/20251022213154956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时53分]"
+        },
+        {
+          "title": "金价这轮会跌多久",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E8%BF%99%E8%BD%AE%E4%BC%9A%E8%B7%8C%E5%A4%9A%E4%B9%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E8%25BF%2599%25E8%25BD%25AE%25E4%25BC%259A%25E8%25B7%258C%25E5%25A4%259A%25E4%25B9%2585%2523%26dgr%3D0%26cate%3D5001%26realpos%3D12%26stream_entry_id%3D31%26pos%3D12%26flag%3D1%26band_rank%3D12%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1761123430%26pre_seqid%3D17611234302900317140104",
+          "source": "微博",
+          "ranks": [
+            12,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 18时49分]"
+        },
+        {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D30%26flag%3D0%26pos%3D30%26cate%3D5001%26realpos%3D30%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761079204%26pre_seqid%3D176107920452003119502114",
+          "source": "微博",
+          "ranks": [
+            30,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 07时34分]"
+        },
+        {
+          "title": "金价下跌的关键原因是什么",
+          "url": "https://www.toutiao.com/trending/7564035029894958638/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时45分]"
+        },
+        {
+          "title": "金价银价急跌",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
+          "source": "微博",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 11时38分]"
+        },
+        {
+          "title": "金价银价为什么同时下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
+          "url": "https://www.cls.cn/detail/2176255",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "金价剧烈波动 普通投资者如何应对",
+          "url": "https://www.toutiao.com/trending/7563858730983362102/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）上海金午盘价为951.41元/克，较国际金价(951.84元/克)，低0.43元/克",
+          "url": "https://flash.jin10.com/detail/20251022150250450800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "金价剧烈波动 投资者心态分化",
+          "url": "https://www.toutiao.com/trending/7563866097959570985/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
