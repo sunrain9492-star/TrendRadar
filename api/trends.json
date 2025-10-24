@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:47:51.742198+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-10-24T23:41:52.958538+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -58,6 +58,17 @@
           "time_info": "[00时50分 ~ 06时38分]"
         },
         {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时41分]"
+        },
+        {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
           "url": "https://www.cls.cn/detail/2179344",
           "source": "财联社热门",
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时41分 ~ 19时31分]"
-        },
-        {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 22时47分]"
         },
         {
           "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
@@ -118,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 23时41分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -175,8 +175,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 22时47分]"
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 23时41分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 23时41分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -188,17 +199,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 22时47分]"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
@@ -582,6 +582,18 @@
           "time_info": "[04时37分 ~ 05时29分]"
         },
         {
+          "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
+          "url": "https://wallstreetcn.com/livenews/2993518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时41分]"
+        },
+        {
           "title": "英特尔(INTC.O)首席执行官：公司致力于推动特朗普恢复美国半导体生产的愿景。",
           "url": "https://flash.jin10.com/detail/20251024050945821800",
           "source": "金十数据",
@@ -772,17 +784,6 @@
           "time_info": "[18时44分 ~ 19时31分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
-          "url": "https://wallstreetcn.com/livenews/2993518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "美国总统特朗普：我们周六不会增派部队进入旧金山。",
           "url": "https://flash.jin10.com/detail/20251024010701813800",
           "source": "金十数据",
@@ -948,6 +949,17 @@
           "time_info": "21时46分"
         },
         {
+          "title": "加拿大总理卡尼：美加贸易谈判在特朗普叫停前已取得进展",
+          "url": "https://flash.jin10.com/detail/20251024224742779800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "特朗普：与加拿大的所有贸易谈判都终止了。",
           "url": "https://flash.jin10.com/detail/20251024104243986800",
           "source": "金十数据",
@@ -1014,6 +1026,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "为何特朗普老是搬石头砸自己的脚",
+          "url": "https://www.toutiao.com/trending/7564749188487974406/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美国白宫：特朗普对乌克兰和俄罗斯越来越感到失望。",
           "url": "https://flash.jin10.com/detail/20251024015637835800",
           "source": "金十数据",
@@ -1064,7 +1087,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1139,8 +1162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时32分 ~ 22时47分]"
+          "appearance_count": 16,
+          "time_info": "[07时32分 ~ 23时41分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1196,11 +1219,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时41分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
