@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:00:17.068318+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-10-27T15:37:10.243575+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -97,6 +97,18 @@
           "time_info": "[00时49分 ~ 05时32分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 15时37分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -171,36 +183,13 @@
           "time_info": "11时46分"
         },
         {
-          "title": "特朗普：期待与日本新首相高市早苗会面。",
-          "url": "https://wallstreetcn.com/livenews/2994063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时00分"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时00分]"
-        },
-        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -211,9 +200,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 15时37分]"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -241,6 +243,18 @@
           "time_info": "[13时42分 ~ 15时00分]"
         },
         {
+          "title": "特朗普：期待与日本新首相高市早苗会面。",
+          "url": "https://wallstreetcn.com/livenews/2994063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时37分]"
+        },
+        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -250,18 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 13时42分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时00分]"
         },
         {
           "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
@@ -288,6 +290,18 @@
           "time_info": "[12时54分 ~ 13时42分]"
         },
         {
+          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
+          "url": "https://wallstreetcn.com/livenews/2994047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时37分]"
+        },
+        {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
           "url": "https://www.cls.cn/detail/2180721",
           "source": "财联社热门",
@@ -297,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/2994045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时37分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -316,7 +342,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -327,9 +353,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "特朗普：不会在2028年竞选副总统",
+          "url": "https://flash.jin10.com/detail/20251027151453609800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "美国总统特朗普：我们必须立即拯救芝加哥，我们可以很容易做到，但必须迅速行动。",
@@ -338,7 +375,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -365,15 +402,15 @@
           "time_info": "11时46分"
         },
         {
-          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
-          "url": "https://wallstreetcn.com/livenews/2994047",
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时00分"
+          "time_info": "15时37分"
         },
         {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
@@ -382,18 +419,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时00分"
-        },
-        {
-          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
-          "url": "https://wallstreetcn.com/livenews/2994045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -404,7 +430,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -415,7 +441,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -426,7 +452,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -437,7 +463,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -448,9 +474,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
+          "url": "https://flash.jin10.com/detail/20251027144820744800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
@@ -459,7 +496,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -470,7 +507,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -481,7 +518,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -503,7 +540,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -525,7 +562,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -536,7 +573,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -547,7 +584,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -607,11 +644,12 @@
           "url": "https://www.toutiao.com/trending/7565736865819528746/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 15时37分]"
         },
         {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
@@ -640,8 +678,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 15时00分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 15时37分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
