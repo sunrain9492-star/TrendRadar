@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-28T06:01:19.825525+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-10-28T06:39:26.866795+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
           "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时39分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -35,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时39分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -50,11 +52,12 @@
             26,
             10,
             14,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时39分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -65,11 +68,12 @@
             16,
             19,
             20,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时39分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -168,6 +172,39 @@
           "time_info": "[00时54分 ~ 01时36分]"
         },
         {
+          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
+          "url": "https://flash.jin10.com/detail/20251028054741724800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
+          "url": "https://news.ifeng.com/c/8nnpTggasmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
           "url": "https://wallstreetcn.com/livenews/2994435",
           "source": "华尔街见闻-快讯",
@@ -184,6 +221,108 @@
           "source": "今日头条",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003902797800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时36分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003030671800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时36分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时39分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时39分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时39分]"
+        },
+        {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/2994554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028000829704800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -238,7 +377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -267,83 +406,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003902797800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时36分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003030671800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时36分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时01分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时01分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时01分]"
-        },
-        {
-          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20251028000829704800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -355,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时39分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -393,11 +455,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时39分]"
         },
         {
           "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
@@ -421,11 +484,12 @@
           "url": "https://flash.jin10.com/detail/20251028045401357800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时39分]"
         }
       ]
     },
