@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T22:45:53.861344+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-10-27T23:37:44.151682+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 23时37分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 22时45分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -98,6 +98,17 @@
           "time_info": "[00时49分 ~ 07时33分]"
         },
         {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时37分]"
+        },
+        {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
           "source": "澎湃新闻",
@@ -121,17 +132,6 @@
           "time_info": "[13时42分 ~ 16时54分]"
         },
         {
-          "title": "特朗普谈南海坠机：或用了劣质燃料",
-          "url": "https://www.toutiao.com/trending/7565133400080846342/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时45分]"
-        },
-        {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
           "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
           "source": "凤凰网",
@@ -139,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时37分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -167,6 +167,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时39分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时49分 ~ 23时37分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -252,6 +264,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
+          "url": "https://wallstreetcn.com/livenews/2994435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "特朗普访问日本",
           "url": "https://www.douyin.com/hot/2285103",
           "source": "抖音",
@@ -264,6 +287,17 @@
           "time_info": "[19时31分 ~ 21时46分]"
         },
         {
+          "title": "特朗普：愿为金正恩延长亚洲行程",
+          "url": "https://www.toutiao.com/trending/7565122061997785115/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
@@ -273,18 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时49分 ~ 22时45分]"
         },
         {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
@@ -335,6 +357,32 @@
           "time_info": "[15时00分 ~ 15时37分]"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时37分]"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时37分]"
+        },
+        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -344,30 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时45分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时45分]"
         },
         {
           "title": "评论员：特朗普在马来西亚双喜临门",
@@ -380,6 +404,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时45分 ~ 22时45分]"
+        },
+        {
+          "title": "特朗普谈美军机南海坠毁原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D29%26pos%3D29%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26display_time%3D1761576006%26pre_seqid%3D176157600625201951143136",
+          "source": "微博",
+          "ranks": [
+            29,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时37分]"
         },
         {
           "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
@@ -474,6 +510,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时37分]"
         },
         {
           "title": "特朗普：俄试射核动力巡航导弹不合适",
@@ -619,17 +667,6 @@
           "time_info": "15时00分"
         },
         {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
           "url": "https://flash.jin10.com/detail/20251027141042006800",
           "source": "金十数据",
@@ -639,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：上周六与特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251027225410577800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
@@ -661,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "特朗普称韩美“非常接近达成协议”",
+          "url": "https://www.toutiao.com/trending/7565883147104030218/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
@@ -779,18 +838,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "特朗普谈美军机南海坠毁原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D29%26pos%3D29%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26display_time%3D1761576006%26pre_seqid%3D176157600625201951143136",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -907,6 +955,30 @@
           "time_info": "[21时46分 ~ 22时45分]"
         },
         {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时37分]"
+        },
+        {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时37分]"
+        },
+        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -940,17 +1012,6 @@
           "time_info": "21时46分"
         },
         {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "美股盘前，科技股、中概股普涨",
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
@@ -962,24 +1023,13 @@
           "time_info": "16时54分"
         },
         {
-          "title": "美股三大股指高开 百度涨超5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20251027214435879800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
@@ -987,7 +1037,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -1019,7 +1069,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1030,7 +1080,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1080,6 +1130,17 @@
           "time_info": "21时46分"
         },
         {
+          "title": "国际金价跌穿4000美元关口，抛售加剧",
+          "url": "https://wallstreetcn.com/livenews/2994415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
           "url": "https://flash.jin10.com/detail/20251027204235077800",
           "source": "金十数据",
@@ -1094,7 +1155,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -1109,13 +1170,24 @@
           "time_info": "[17时44分 ~ 21时46分]"
         },
         {
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1149,9 +1221,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时37分]"
         }
       ]
     },
