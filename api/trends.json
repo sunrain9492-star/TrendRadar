@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T18:44:02.078821+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2025-10-31T19:29:55.261410+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时54分 ~ 17时40分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时29分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时33分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时44分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -89,8 +89,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时29分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时29分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -135,18 +148,6 @@
           "time_info": "[00时54分 ~ 07时33分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时44分]"
-        },
-        {
           "title": "特朗普全面关税被参议院批准终止",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
           "source": "bilibili 热搜",
@@ -157,11 +158,12 @@
             7,
             6,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时29分]"
         },
         {
           "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
@@ -269,6 +271,18 @@
           "time_info": "[11时38分 ~ 16时50分]"
         },
         {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时29分]"
+        },
+        {
           "title": "特朗普批准韩国在美建造核动力潜艇",
           "url": "https://news.ifeng.com/c/8nsFayRT4WM",
           "source": "凤凰网",
@@ -280,6 +294,17 @@
           "time_info": "[00时54分 ~ 03时35分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时29分]"
+        },
+        {
           "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
           "url": "https://news.ifeng.com/c/8ntVHnP7AGG",
           "source": "凤凰网",
@@ -289,29 +314,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 13时41分]"
-        },
-        {
-          "title": "特朗普为何不参加APEC峰会",
-          "url": "https://www.toutiao.com/trending/7567275879148031498/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时44分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时44分]"
         },
         {
           "title": "高市早苗接待特朗普为何“丑态百出”",
@@ -387,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "中方回应特朗普所称G2会议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E7%A7%B0G2%E4%BC%9A%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%2580%25E7%25A7%25B0G2%25E4%25BC%259A%25E8%25AE%25AE%2523%26realpos%3D5%26lcate%3D5001%26band_rank%3D5%26pos%3D5%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761909987%26pre_seqid%3D17619099875470253878794&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -514,23 +527,24 @@
           "time_info": "[00时54分 ~ 04时51分]"
         },
         {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时29分]"
+        },
+        {
           "title": "外交部回应特朗普“G2”集团言论",
           "url": "https://www.toutiao.com/trending/7566848950186197011/",
           "source": "今日头条",
           "ranks": [
             13,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时44分]"
-        },
-        {
-          "title": "特朗普关税被指“违法”对华意味什么",
-          "url": "https://www.toutiao.com/trending/7567284269270175295/",
-          "source": "今日头条",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -638,7 +652,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -698,6 +712,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "专家谈特朗普发文用G2指代中美",
+          "url": "https://www.toutiao.com/trending/7567314385656352292/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "美元兑卢布短线波动不大，此前英国金融时报报道称，莫斯科向华盛顿发送备忘录后，特朗普与普京的峰会被取消。",
           "url": "https://wallstreetcn.com/livenews/2997422",
           "source": "华尔街见闻-快讯",
@@ -745,8 +770,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 19时29分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -803,11 +828,12 @@
           "url": "https://wallstreetcn.com/livenews/2997662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时29分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -844,6 +870,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时39分]"
+        },
+        {
+          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时29分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
@@ -918,24 +956,13 @@
           "time_info": "[04时51分 ~ 05时34分]"
         },
         {
-          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "小马智行美股盘前涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -1044,8 +1071,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 19时29分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1066,7 +1093,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -1098,8 +1125,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时29分]"
         },
         {
           "title": "金价再度回落 但仍有望录得连续第三个月上涨",
@@ -1197,11 +1224,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时29分]"
         }
       ]
     }
