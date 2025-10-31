@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T03:32:35.476127+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-11-01T04:38:42.686750+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
-        },
-        {
-          "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
-          "url": "https://wallstreetcn.com/livenews/2997869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时32分"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -62,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -71,11 +60,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
+          "url": "https://wallstreetcn.com/livenews/2997856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
+          "url": "https://wallstreetcn.com/livenews/2997869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时32分]"
+          "time_info": "[03时32分 ~ 04时38分]"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -90,16 +105,17 @@
           "time_info": "[01时44分 ~ 02时58分]"
         },
         {
-          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
-          "url": "https://wallstreetcn.com/livenews/2997856",
-          "source": "华尔街见闻-快讯",
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            10
+            30,
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -198,18 +214,6 @@
           "time_info": "[02时58分 ~ 03时32分]"
         },
         {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时32分]"
-        },
-        {
           "title": "特朗普宣布重启核试验被批不切实际",
           "url": "https://www.toutiao.com/trending/7567349344584601114/",
           "source": "今日头条",
@@ -227,9 +231,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/2997878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "特朗普否认已决定对委内瑞拉实施军事打击",
@@ -254,6 +269,28 @@
           "time_info": "02时58分"
         },
         {
+          "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
+          "url": "https://wallstreetcn.com/livenews/2997872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。 特朗普政府扣留（联邦政府）众多资金显然是有其法理依据的。",
+          "url": "https://wallstreetcn.com/livenews/2997871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
           "url": "https://wallstreetcn.com/livenews/2997816",
           "source": "华尔街见闻-快讯",
@@ -276,6 +313,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
+          "url": "https://flash.jin10.com/detail/20251101031047264800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "博主：美参议院掀了特朗普的桌",
           "url": "https://www.toutiao.com/trending/7567362288856862214/",
           "source": "今日头条",
@@ -290,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -300,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -311,8 +359,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040624223800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040622397800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
+          "url": "https://flash.jin10.com/detail/20251101040612568800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
+          "url": "https://flash.jin10.com/detail/20251101040052519800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -363,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         }
       ]
     },
@@ -380,8 +472,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时38分]"
         }
       ]
     },
@@ -400,6 +492,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
+          "url": "https://wallstreetcn.com/livenews/2997882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数10月份涨2%",
+          "url": "https://wallstreetcn.com/livenews/2997879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     }
