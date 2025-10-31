@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T22:51:12.801545+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-10-31T23:44:30.311035+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时54分 ~ 17时40分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时51分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -54,6 +41,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时33分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时44分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -90,8 +91,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 23时44分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -103,20 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时51分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时40分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时44分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -369,17 +370,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
-          "url": "https://wallstreetcn.com/livenews/2997792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
           "url": "https://www.cls.cn/detail/2187115",
           "source": "财联社热门",
@@ -501,6 +491,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时34分]"
+        },
+        {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时44分]"
         },
         {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
@@ -784,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 22时51分]"
+          "appearance_count": 16,
+          "time_info": "[07时33分 ~ 23时44分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -838,26 +840,40 @@
           "time_info": "04时51分"
         },
         {
-          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
-          "url": "https://wallstreetcn.com/livenews/2997795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "房地美股价下跌7%，跌至当日低点。",
           "url": "https://flash.jin10.com/detail/20251031222848337800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时44分 ~ 23时44分]"
+        },
+        {
+          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
+          "url": "https://wallstreetcn.com/livenews/2997795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时44分]"
         },
         {
           "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
@@ -918,18 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时39分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时44分 ~ 22时51分]"
         },
         {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
@@ -1022,7 +1026,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1066,7 +1070,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1191,17 +1195,6 @@
           "time_info": "[17时40分 ~ 21时45分]"
         },
         {
-          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
-          "url": "https://wallstreetcn.com/livenews/2997790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "金价狂飙婚事耽搁2年女子发声",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D18%26flag%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26pos%3D19%26cate%3D5001%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761856810%26pre_seqid%3D17618568099860269028113",
           "source": "微博",
@@ -1213,6 +1206,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时51分 ~ 07时33分]"
+        },
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时44分]"
         },
         {
           "title": "金价再度回落 但仍有望录得连续第三个月上涨",
@@ -1232,7 +1237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1243,7 +1248,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         }
@@ -1273,8 +1278,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时50分 ~ 22时51分]"
+          "appearance_count": 10,
+          "time_info": "[16时50分 ~ 23时44分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1289,6 +1294,18 @@
           "time_info": "[04时51分 ~ 05时34分]"
         },
         {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时44分]"
+        },
+        {
           "title": "据华尔街日报：谷歌推出首支完全由人工智能生成的广告片，将于今日起在电视上播出。",
           "url": "https://flash.jin10.com/detail/20251031180309112800",
           "source": "金十数据",
@@ -1298,17 +1315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         }
       ]
     },
@@ -1354,7 +1360,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周四（10月30日）纽约尾盘，ICE美元指数涨0.33%，报99.549点，日内交投区间为98.915-99.724点，北京时间12:28刷新日低，之后持续上扬，19:39开始加速上涨，21:11刷新日高之后持续高位震荡。 彭博美元指数涨0.38%，报1218.59点，日内交投区间为1211.93-1220.78点。",
@@ -1379,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时34分]"
+        },
+        {
+          "title": "摩根士丹利G10外汇策略主管表示，摩根士丹利预计美元指数DXY将在2026年底前跌至89。",
+          "url": "https://flash.jin10.com/detail/20251031231849717800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -1399,8 +1416,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 23时44分]"
         }
       ]
     }
