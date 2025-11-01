@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T13:37:05.217261+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-11-01T14:51:17.797309+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -42,6 +42,17 @@
           "time_info": "[00时56分 ~ 06时38分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 14时51分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
           "url": "https://www.zhihu.com/question/1967494414290084753",
           "source": "知乎",
@@ -57,17 +68,6 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时37分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -76,8 +76,66 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时32分 ~ 13时37分]"
+          "time_info": "[11时36分 ~ 14时51分]"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 14时51分]"
+        },
+        {
+          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://flash.jin10.com/detail/20251101135652852800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 14时51分]"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 14时51分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -106,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时37分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -169,19 +216,6 @@
           "time_info": "[01时44分 ~ 02时58分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时37分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
           "url": "https://flash.jin10.com/detail/20251101031047264800",
           "source": "金十数据",
@@ -192,28 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时37分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时37分]"
         },
         {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
@@ -381,6 +393,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://wallstreetcn.com/livenews/2997972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
           "url": "https://wallstreetcn.com/livenews/2997913",
           "source": "华尔街见闻-快讯",
@@ -486,6 +509,33 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 14时51分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 14时51分]"
+        },
+        {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
@@ -496,20 +546,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时37分]"
-        },
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 13时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 14时51分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -534,20 +572,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时33分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时38分 ~ 13时37分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -656,11 +680,12 @@
           "ranks": [
             10,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时38分 ~ 13时37分]"
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 14时51分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -736,6 +761,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         }
       ]
     },
