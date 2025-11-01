@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T11:36:33.017767+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2025-11-01T12:39:31.982036+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -63,9 +63,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时39分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -122,6 +122,18 @@
           "time_info": "[02时58分 ~ 04时38分]"
         },
         {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时39分]"
+        },
+        {
           "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
           "url": "https://wallstreetcn.com/livenews/2997869",
           "source": "华尔街见闻-快讯",
@@ -158,18 +170,6 @@
           "time_info": "[04时38分 ~ 07时33分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时36分]"
-        },
-        {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
           "url": "https://news.ifeng.com/c/8nujw83bPTx",
           "source": "凤凰网",
@@ -179,6 +179,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时39分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -289,6 +300,18 @@
           "time_info": "[02时58分 ~ 03时32分]"
         },
         {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时39分]"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
           "url": "https://wallstreetcn.com/livenews/2997872",
           "source": "华尔街见闻-快讯",
@@ -335,17 +358,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
           "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
           "url": "https://wallstreetcn.com/livenews/2997913",
           "source": "华尔街见闻-快讯",
@@ -357,6 +369,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
           "url": "https://flash.jin10.com/detail/20251101025013494800",
           "source": "金十数据",
@@ -366,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "特朗普否认已决定对委内瑞拉实施军事打击",
@@ -388,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        },
-        {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         },
         {
           "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
@@ -467,11 +490,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 11时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时39分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -498,6 +522,18 @@
           "time_info": "[04时38分 ~ 07时33分]"
         },
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时39分]"
+        },
+        {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
           "url": "https://flash.jin10.com/detail/20251101040612568800",
           "source": "金十数据",
@@ -522,29 +558,18 @@
           "time_info": "[04时38分 ~ 07时33分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时36分]"
-        },
-        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
             13,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 11时36分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 12时39分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -579,7 +604,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -632,8 +657,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 11时36分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 12时39分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
