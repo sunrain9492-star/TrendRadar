@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T21:13:42.507944+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-11-01T22:40:38.475017+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时36分 ~ 21时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时36分 ~ 22时40分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时32分 ~ 21时13分]"
+          "appearance_count": 16,
+          "time_info": "[07时32分 ~ 22时40分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -93,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时36分 ~ 21时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时36分 ~ 22时40分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -142,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 21时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 22时40分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -154,8 +154,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 22时40分]"
         },
         {
           "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
@@ -288,6 +288,17 @@
           "time_info": "[04时38分 ~ 07时33分]"
         },
         {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时40分]"
+        },
+        {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
           "url": "https://news.ifeng.com/c/8nujw83bPTx",
           "source": "凤凰网",
@@ -297,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时13分]"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -612,8 +612,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时32分 ~ 21时13分]"
+          "appearance_count": 16,
+          "time_info": "[07时32分 ~ 22时40分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -629,8 +629,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时38分 ~ 21时13分]"
+          "appearance_count": 17,
+          "time_info": "[06时38分 ~ 22时40分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -725,11 +725,12 @@
           "url": "https://wallstreetcn.com/articles/3758463",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时40分]"
         },
         {
           "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
@@ -793,8 +794,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时38分 ~ 16时43分]"
+          "appearance_count": 13,
+          "time_info": "[06时38分 ~ 22时40分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -820,6 +821,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗一超轻型飞机发生事故",
+          "url": "https://flash.jin10.com/detail/20251101163710550800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时40分]"
+        },
+        {
+          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20251101154233808800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时34分]"
+        },
+        {
+          "title": "伊朗一飞机失控 飞行员弹射逃生",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%B9%E5%B0%84%E9%80%83%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
@@ -870,8 +912,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 21时13分]"
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 22时40分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -879,11 +921,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时40分]"
         }
       ]
     },
@@ -898,11 +941,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 22时40分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
@@ -916,36 +960,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗一超轻型飞机发生事故",
-          "url": "https://flash.jin10.com/detail/20251101163710550800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时40分]"
-        },
-        {
-          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
-          "url": "https://flash.jin10.com/detail/20251101154233808800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时34分]"
         }
       ]
     },
