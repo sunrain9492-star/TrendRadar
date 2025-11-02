@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T01:33:28.769478+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-11-03T02:45:02.194641+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -59,30 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
-          "url": "https://wallstreetcn.com/livenews/2998163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
-          "url": "https://flash.jin10.com/detail/20251102221418618800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
@@ -92,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -101,11 +79,34 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
+          "url": "https://wallstreetcn.com/livenews/2998163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时45分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
+          "url": "https://flash.jin10.com/detail/20251102221418618800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时45分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
@@ -115,8 +116,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时45分]"
+        },
+        {
+          "title": "特朗普主动提“G2” 中国为何不接招",
+          "url": "https://www.toutiao.com/trending/7567992516465659442/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     },
@@ -147,11 +159,12 @@
           "url": "https://www.zhihu.com/question/1968075475093034371",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         }
       ]
     },
@@ -167,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时45分]"
         }
       ]
     }
