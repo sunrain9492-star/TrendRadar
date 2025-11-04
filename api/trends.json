@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T05:33:44.186663+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-05T06:42:31.596253+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -27,11 +27,23 @@
             10,
             15,
             9,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
+          "url": "https://flash.jin10.com/detail/20251105062051375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
@@ -242,6 +254,17 @@
           "time_info": "[00时52分 ~ 01时38分]"
         },
         {
+          "title": "特朗普称最高法院关税案关乎美国存亡",
+          "url": "https://flash.jin10.com/detail/20251105060423187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
@@ -253,6 +276,28 @@
           "time_info": "04时42分"
         },
         {
+          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
+          "url": "https://wallstreetcn.com/livenews/2999421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "据塔斯社援引克里姆林宫的话称，俄罗斯仍在等待美国就特朗普有关恢复核试验的言论作出澄清。",
+          "url": "https://flash.jin10.com/detail/20251105055137506800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251104234509311800",
           "source": "金十数据",
@@ -262,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/2999414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -278,7 +334,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -288,8 +344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -301,8 +357,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时42分]"
+        },
+        {
+          "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
+          "url": "https://flash.jin10.com/detail/20251105062032603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -311,7 +378,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -334,9 +401,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
+          "url": "https://wallstreetcn.com/livenews/2999433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
@@ -345,9 +423,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
+          "url": "https://flash.jin10.com/detail/20251105061222244800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "美股收盘：三大股指齐挫 纳指大跌2%",
@@ -356,9 +445,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2999423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
+          "url": "https://wallstreetcn.com/livenews/2999419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/2999416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/2999413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -450,7 +583,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -461,7 +594,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -480,7 +613,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -490,8 +623,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
@@ -500,9 +633,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -517,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
