@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T14:58:36.309257+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2025-11-04T15:35:44.449759+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -65,31 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时58分]"
-        },
-        {
-          "title": "特朗普：美核武可毁灭世界150次",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时58分]"
-        },
-        {
-          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
-          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时35分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -98,6 +75,18 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时35分]"
+        },
+        {
+          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
+          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -115,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时35分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -144,15 +133,16 @@
           "time_info": "[00时51分 ~ 07时33分]"
         },
         {
-          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
-          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
           "source": "凤凰网",
           "ranks": [
-            2
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时35分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -168,6 +158,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时48分 ~ 07时33分]"
+        },
+        {
+          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
+          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时35分]"
+        },
+        {
+          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
+          "url": "https://flash.jin10.com/detail/20251104153456073800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "道富集团CEO批特朗普移民政策“反增长”",
@@ -354,6 +367,18 @@
           "time_info": "[04时41分 ~ 05时32分]"
         },
         {
+          "title": "道富集团CEO称特朗普移民政策“反增长”",
+          "url": "https://wallstreetcn.com/livenews/2999031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 15时35分]"
+        },
+        {
           "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
           "url": "https://wallstreetcn.com/livenews/2998714",
           "source": "华尔街见闻-快讯",
@@ -377,15 +402,26 @@
           "time_info": "01时38分"
         },
         {
-          "title": "道富集团CEO称特朗普移民政策“反增长”",
-          "url": "https://wallstreetcn.com/livenews/2999031",
-          "source": "华尔街见闻-快讯",
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "15时35分"
+        },
+        {
+          "title": "特朗普威胁对尼日利亚动武，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2999066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -434,8 +470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时35分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -446,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 15时35分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -572,7 +608,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -608,6 +644,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "荷兰国际：美债收益率曲线仍过于平坦",
+          "url": "https://flash.jin10.com/detail/20251104144102291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "30年期美债收益率涨约3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/2998743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时32分]"
+        },
+        {
+          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
+          "url": "https://wallstreetcn.com/livenews/2998667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时38分]"
+        },
+        {
+          "title": "荷兰国际：欧债走势几乎被美债主导",
+          "url": "https://flash.jin10.com/detail/20251104152351380800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -654,47 +742,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "荷兰国际：美债收益率曲线仍过于平坦",
-          "url": "https://flash.jin10.com/detail/20251104144102291800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "30年期美债收益率涨约3.7个基点",
-          "url": "https://wallstreetcn.com/livenews/2998743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时32分]"
-        },
-        {
-          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
-          "url": "https://wallstreetcn.com/livenews/2998667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -710,8 +757,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时32分 ~ 14时58分]"
+          "appearance_count": 10,
+          "time_info": "[05时32分 ~ 15时35分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -723,8 +770,37 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
+          "url": "https://wallstreetcn.com/livenews/2998697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时28分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）上海金午盘价为913.54元/克，较国际金价(912.74元/克)，高0.8元/克",
+          "url": "https://flash.jin10.com/detail/20251104150233781800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -738,11 +814,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时35分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -806,24 +883,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
-          "url": "https://wallstreetcn.com/livenews/2998697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -838,8 +897,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时35分]"
         }
       ]
     }
