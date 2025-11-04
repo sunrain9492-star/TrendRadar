@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T03:29:28.333611+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-05T04:42:12.297183+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时29分]"
-        },
-        {
-          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
-          "url": "https://flash.jin10.com/detail/20251105030659180800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -37,11 +26,12 @@
             13,
             10,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
@@ -49,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时42分]"
         },
         {
           "title": "白宫：特朗普正在密切关注尼日利亚。",
@@ -61,11 +52,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时42分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -73,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时42分]"
         },
         {
           "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
@@ -85,11 +78,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时42分]"
+        },
+        {
+          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
+          "url": "https://flash.jin10.com/detail/20251105030659180800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 04时42分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -102,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时38分]"
+        },
+        {
+          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时42分]"
         },
         {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
@@ -138,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时55分]"
+        },
+        {
+          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
+          "url": "https://flash.jin10.com/detail/20251105024546546800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时42分]"
         },
         {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
@@ -212,26 +242,15 @@
           "time_info": "[00时52分 ~ 01时38分]"
         },
         {
-          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
+          "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
           "ranks": [
-            7
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
-          "url": "https://flash.jin10.com/detail/20251105024546546800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "04时42分"
         },
         {
           "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
@@ -259,8 +278,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
+          "url": "https://wallstreetcn.com/livenews/2999380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
           "url": "https://flash.jin10.com/detail/20251105011112408800",
@@ -323,8 +353,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -332,11 +362,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -353,6 +384,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "民生宏观：美元指数再破100 但升值周期未至",
+          "url": "https://flash.jin10.com/detail/20251105033633355800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -364,25 +423,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时42分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2999277",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
           "ranks": [
-            28
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "04时42分"
         }
       ]
     }
