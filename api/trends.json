@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:45:02.537306+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2025-11-04T18:50:53.823410+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 17时45分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 18时50分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -194,6 +194,28 @@
           "time_info": "13时42分"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时50分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "奥巴马抨击特朗普释放了什么信号",
           "url": "https://www.toutiao.com/trending/7568449754930089518/",
           "source": "今日头条",
@@ -259,17 +281,6 @@
           "time_info": "[03时28分 ~ 05时32分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时45分]"
-        },
-        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（总统特朗普政府关门造成的）缺乏政府数据不应当干扰到FOMC的决策。",
           "url": "https://wallstreetcn.com/livenews/2998690",
           "source": "华尔街见闻-快讯",
@@ -304,6 +315,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时34分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时50分]"
         },
         {
           "title": "特朗普对华政策的思路真改变了吗",
@@ -425,17 +448,6 @@
           "time_info": "[17时44分 ~ 17时45分]"
         },
         {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
           "url": "https://wallstreetcn.com/livenews/2998687",
           "source": "华尔街见闻-快讯",
@@ -515,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时34分 ~ 17时45分]"
+          "appearance_count": 11,
+          "time_info": "[11时34分 ~ 18时50分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -641,22 +653,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时50分]"
         },
         {
           "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
           "url": "https://wallstreetcn.com/livenews/2999122",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时50分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
@@ -665,7 +679,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -854,7 +868,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -873,11 +887,12 @@
             9,
             7,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时32分 ~ 17时45分]"
+          "appearance_count": 14,
+          "time_info": "[05时32分 ~ 18时50分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
