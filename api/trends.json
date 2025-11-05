@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:46:58.510973+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2025-11-05T22:48:03.787883+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时35分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 22时48分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时35分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 22时48分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -58,20 +72,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时35分]"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 21时46分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -113,7 +113,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -291,6 +291,17 @@
           "time_info": "[01时38分 ~ 02时55分]"
         },
         {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
           "url": "https://flash.jin10.com/detail/20251105024546546800",
           "source": "金十数据",
@@ -432,6 +443,50 @@
           "time_info": "[11时35分 ~ 11时36分]"
         },
         {
+          "title": "特朗普将民主党在选举中的全面胜利归咎于政府停摆",
+          "url": "https://flash.jin10.com/detail/20251105222107391800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
+          "url": "https://flash.jin10.com/detail/20251105220952184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2999953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
+          "url": "https://flash.jin10.com/detail/20251105220524399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -441,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
+          "url": "https://wallstreetcn.com/livenews/2999952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
@@ -542,6 +608,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
+          "url": "https://wallstreetcn.com/livenews/2999939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/2999414",
           "source": "华尔街见闻-快讯",
@@ -564,6 +641,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
+          "url": "https://flash.jin10.com/detail/20251105215937400800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
           "url": "https://wallstreetcn.com/livenews/2999281",
           "source": "华尔街见闻-快讯",
@@ -573,12 +661,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -588,8 +687,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 21时46分]"
+          "appearance_count": 17,
+          "time_info": "[07时34分 ~ 22时48分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -655,6 +754,28 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 11时36分]"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨0.88%，半导体ETF涨0.61%，能源业ETF涨0.45%，区域银行ETF涨0.42%，科技行业ETF则跌0.14%，全球科技股指数ETF跌0.31%，网络股指数ETF跌0.34%",
+          "url": "https://wallstreetcn.com/livenews/2999967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "超微电脑美股盘初夏跌超4.5%，最近五个交易日迄今累计下跌大约10%。",
+          "url": "https://wallstreetcn.com/livenews/2999966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -774,6 +895,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "美股三大股指涨跌不一",
+          "url": "https://flash.jin10.com/detail/20251105223028600800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251105050517718800",
           "source": "金十数据",
@@ -813,7 +945,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -868,7 +1000,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -884,13 +1016,24 @@
           "time_info": "06时42分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
           "url": "https://flash.jin10.com/detail/20251105204332629800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -917,6 +1060,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/2999413",
           "source": "华尔街见闻-快讯",
@@ -931,7 +1085,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
@@ -1017,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：基于地标的导航功能现已在美国的安卓和iOS设备上推出。",
+          "url": "https://flash.jin10.com/detail/20251105220518450800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
@@ -1031,7 +1196,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1243,7 +1408,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -1255,6 +1420,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时54分 ~ 21时46分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
@@ -1294,7 +1470,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "法国总统府：法国总统马克龙要求伊朗总统释放全部法国公民。",
@@ -1340,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/2999940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
