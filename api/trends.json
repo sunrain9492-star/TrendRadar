@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T18:48:18.819017+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-11-06T19:32:22.909702+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -28,8 +28,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 19时32分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时43分 ~ 18时48分]"
+          "time_info": "[12时51分 ~ 19时32分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -44,16 +56,16 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 19时32分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -66,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时35分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[05时35分 ~ 19时32分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -80,18 +92,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 18时48分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -477,7 +477,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -609,7 +609,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -645,12 +645,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -727,15 +738,28 @@
           "time_info": "07时33分"
         },
         {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
+          "title": "EchoStar(SATS.O)美股盘前拉升，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20251106192855202800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时32分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -750,18 +774,6 @@
           "time_info": "[05时35分 ~ 06时45分]"
         },
         {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时48分]"
-        },
-        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251106051116318800",
           "source": "金十数据",
@@ -772,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时45分]"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时32分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -817,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251106191520119800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
@@ -1024,7 +1059,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -1035,7 +1070,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -1057,7 +1092,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -1229,8 +1264,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 18时48分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 19时32分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -1344,7 +1379,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
@@ -1357,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 15时33分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
