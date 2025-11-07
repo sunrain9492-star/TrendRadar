@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T04:37:04.553996+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-11-08T05:30:14.702793+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
+          "url": "https://wallstreetcn.com/livenews/3001408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -269,6 +280,17 @@
           "time_info": "[02时48分 ~ 03时31分]"
         },
         {
+          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
+          "url": "https://wallstreetcn.com/livenews/3001393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
           "url": "https://flash.jin10.com/detail/20251108004617809800",
           "source": "金十数据",
@@ -349,8 +371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -362,8 +384,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
@@ -403,6 +425,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时37分]"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -414,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 05时30分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -431,20 +482,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
+          "title": "美元指数本周跌超0.2%，冲高至100点整数位心理关口上方之后转跌",
+          "url": "https://wallstreetcn.com/livenews/3001387",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
+            18
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 04时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         }
       ]
     },
