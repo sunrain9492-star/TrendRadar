@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-09T05:29:12.441530+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-11-09T06:38:15.408061+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "titles": [
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
           "url": "https://flash.jin10.com/detail/20251108220636044800",
@@ -26,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时38分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -70,11 +70,12 @@
           "ranks": [
             5,
             9,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时38分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -84,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时38分]"
         }
       ]
     },
@@ -106,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         },
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -116,11 +117,12 @@
           "ranks": [
             2,
             6,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时38分]"
         }
       ]
     },
@@ -136,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         }
       ]
     },
@@ -170,8 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         }
       ]
     },
@@ -188,8 +190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时38分]"
         }
       ]
     }
