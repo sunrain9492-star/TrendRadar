@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:50:27.026483+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-08T15:30:54.483065+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,17 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 15时30分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时46分 ~ 11时17分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 14时50分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -89,31 +89,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
-          "url": "https://flash.jin10.com/detail/20251108012705456800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 14时50分]"
-        },
-        {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
           "source": "澎湃新闻",
@@ -123,8 +98,34 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 15时30分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时17分 ~ 14时50分]"
+          "time_info": "[11时17分 ~ 15时30分]"
+        },
+        {
+          "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
+          "url": "https://flash.jin10.com/detail/20251108012705456800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -226,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时30分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -430,24 +442,13 @@
           "time_info": "07时31分"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
           "url": "https://www.cls.cn/detail/2194868",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -558,6 +559,19 @@
           "time_info": "[00时46分 ~ 06时38分]"
         },
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 15时30分]"
+        },
+        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -568,21 +582,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 14时50分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 14时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 15时30分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
@@ -679,8 +680,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 15时30分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -776,11 +777,12 @@
           "ranks": [
             8,
             12,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时30分]"
         }
       ]
     },
