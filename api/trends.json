@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T21:15:08.508450+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-11-08T22:34:26.033730+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -54,6 +54,19 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 22时34分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -66,19 +79,6 @@
           "time_info": "[00时46分 ~ 11时17分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 21时15分]"
-        },
-        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
@@ -87,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时34分]"
         },
         {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
@@ -143,6 +143,17 @@
           "time_info": "[11时17分 ~ 15时30分]"
         },
         {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
           "url": "https://flash.jin10.com/detail/20251108012705456800",
           "source": "金十数据",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -184,11 +206,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -287,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时34分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -632,8 +655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 21时15分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 22时34分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -770,8 +793,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时34分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -813,8 +836,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时43分 ~ 22时34分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
