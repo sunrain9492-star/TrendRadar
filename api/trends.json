@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T06:37:56.117624+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2025-11-10T07:31:09.530212+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时31分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时31分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -40,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时31分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -124,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
@@ -217,6 +218,17 @@
           "time_info": "[02时44分 ~ 03时24分]"
         },
         {
+          "title": "BBC两名高管因特朗普纪录片争议宣布辞职",
+          "url": "https://news.ifeng.com/c/8o9niyf1JV0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
           "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
           "url": "https://flash.jin10.com/detail/20251110042444036800",
           "source": "金十数据",
@@ -233,11 +245,64 @@
           "url": "https://flash.jin10.com/detail/20251110053737053800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "高盛称美国投资者在涌入日本股市，受其相对美股的超额回报吸引",
+          "url": "https://wallstreetcn.com/livenews/3001758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20251110070112567800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
+          "url": "https://wallstreetcn.com/livenews/3001751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -253,27 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时31分]"
         }
       ]
     },
