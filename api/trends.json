@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:32:12.826594+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2025-11-10T21:44:24.152648+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 21时44分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -331,6 +331,18 @@
           "time_info": "[04时36分 ~ 06时37分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时44分]"
+        },
+        {
           "title": "专家：特朗普发钱一箭三雕",
           "url": "https://www.toutiao.com/trending/7570931158150565427/",
           "source": "今日头条",
@@ -390,17 +402,6 @@
           "time_info": "[06时37分 ~ 07时31分]"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
           "title": "评论员：美财政已崩特朗普还在画饼",
           "url": "https://www.toutiao.com/trending/7570986378905783817/",
           "source": "今日头条",
@@ -429,7 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -465,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "牛只短缺推动美国牛肉价格创新高 特朗普要求司法部彻查垄断行为",
+          "url": "https://flash.jin10.com/detail/20251110204958753800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -531,12 +543,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "英国首相发言人否认特朗普对BBC腐败的指控。他表示，有关BBC章程审查将在适当的时候启动。",
+          "url": "https://flash.jin10.com/detail/20251110203730195800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -564,8 +587,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时44分 ~ 19时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时44分 ~ 21时44分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -612,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -685,8 +719,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 21时44分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -726,8 +760,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时44分]"
         },
         {
           "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
@@ -736,7 +770,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         }
