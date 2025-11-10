@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:44:24.152648+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-11-10T22:44:38.080850+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 21时44分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 22时44分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -246,6 +246,19 @@
           "time_info": "[11时44分 ~ 13时42分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时44分]"
+        },
+        {
           "title": "特朗普宣布一个大消息",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
           "source": "百度热搜",
@@ -329,18 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时37分]"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时44分]"
         },
         {
           "title": "专家：特朗普发钱一箭三雕",
@@ -474,9 +475,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "因剪辑拼接特朗普视频，BBC高管辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -551,7 +563,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -559,7 +571,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -584,11 +596,12 @@
             9,
             11,
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时44分 ~ 21时44分]"
+          "appearance_count": 15,
+          "time_info": "[11时44分 ~ 22时44分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -603,6 +616,28 @@
           "time_info": "[12时49分 ~ 15时35分]"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
+          "url": "https://wallstreetcn.com/livenews/3002213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251110223904190800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "高盛称美国投资者在涌入日本股市，受其相对美股的超额回报吸引",
           "url": "https://wallstreetcn.com/livenews/3001758",
           "source": "华尔街见闻-快讯",
@@ -612,6 +647,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时44分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -637,15 +684,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
+          "title": "美股三大股指集体高开",
+          "url": "https://flash.jin10.com/detail/20251110223028989800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "22时44分"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -657,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
@@ -701,6 +759,18 @@
           "time_info": "[11时44分 ~ 15时35分]"
         },
         {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 22时44分]"
+        },
+        {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
           "url": "https://flash.jin10.com/detail/20251110164825040800",
           "source": "金十数据",
@@ -710,17 +780,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
-        },
-        {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 21时44分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -740,6 +799,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时44分]"
+        },
+        {
           "title": "伊朗将启动货币改革，删除面值末四个零",
           "url": "https://wallstreetcn.com/livenews/3001716",
           "source": "华尔街见闻-快讯",
@@ -751,17 +821,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时37分]"
-        },
-        {
-          "title": "伊朗货币改革将启动：删除4个0",
-          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时44分]"
         },
         {
           "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
