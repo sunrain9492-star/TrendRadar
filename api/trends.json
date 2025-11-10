@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T05:35:18.678555+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-11-11T06:43:22.827537+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -16,8 +16,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
+        },
+        {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22,
+            21,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -32,30 +47,15 @@
           "time_info": "[00时55分 ~ 05时35分]"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            22,
-            21,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时35分]"
-        },
-        {
-          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
-          "url": "https://flash.jin10.com/detail/20251111050747330800",
+          "title": "美国联邦航空管理局网站显示，尽管特朗普要求管制人员重返工作岗位，但目前仍有23个联邦航空管理局设施报告存在人员配置问题。",
+          "url": "https://flash.jin10.com/detail/20251111063015742800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时43分"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -67,28 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
-          "url": "https://flash.jin10.com/detail/20251111050637638800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
-          "url": "https://wallstreetcn.com/livenews/3002333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         },
         {
           "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
@@ -116,6 +94,18 @@
           "time_info": "[00时55分 ~ 01时35分]"
         },
         {
+          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
+          "url": "https://flash.jin10.com/detail/20251111050747330800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
           "url": "https://wallstreetcn.com/livenews/3002316",
           "source": "华尔街见闻-快讯",
@@ -126,6 +116,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
+          "url": "https://flash.jin10.com/detail/20251111050637638800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
+          "url": "https://wallstreetcn.com/livenews/3002333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -141,6 +155,18 @@
           "time_info": "[01时35分 ~ 03时29分]"
         },
         {
+          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
+          "url": "https://flash.jin10.com/detail/20251111050524738800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
           "url": "https://wallstreetcn.com/livenews/3002250",
           "source": "华尔街见闻-快讯",
@@ -151,6 +177,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时35分]"
+        },
+        {
+          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
+          "url": "https://flash.jin10.com/detail/20251111050513052800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普称接近与印度达成贸易协议",
+          "url": "https://flash.jin10.com/detail/20251111050432896800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
+          "url": "https://wallstreetcn.com/livenews/3002324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
+          "url": "https://flash.jin10.com/detail/20251111050220430800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
+          "url": "https://flash.jin10.com/detail/20251111050150815800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -177,6 +263,18 @@
           "time_info": "[02时53分 ~ 03时29分]"
         },
         {
+          "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
+          "url": "https://flash.jin10.com/detail/20251111050113975800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
           "url": "https://wallstreetcn.com/livenews/3002238",
           "source": "华尔街见闻-快讯",
@@ -200,50 +298,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
-          "url": "https://flash.jin10.com/detail/20251111050524738800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
-          "url": "https://flash.jin10.com/detail/20251111050513052800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普称接近与印度达成贸易协议",
-          "url": "https://flash.jin10.com/detail/20251111050432896800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
-          "url": "https://wallstreetcn.com/livenews/3002324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
           "title": "泰国军方指挥官称，在特朗普斡旋达成停火协议后，泰国军方“暂停”与柬埔寨的各项协议。",
           "url": "https://flash.jin10.com/detail/20251111011541055800",
           "source": "金十数据",
@@ -255,37 +309,15 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
-          "url": "https://flash.jin10.com/detail/20251111050220430800",
-          "source": "金十数据",
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
-          "url": "https://flash.jin10.com/detail/20251111050150815800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
-          "url": "https://flash.jin10.com/detail/20251111050113975800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时43分"
         },
         {
           "title": "美国总统特朗普：你们可以期待一些关于叙利亚的声明。",
@@ -294,7 +326,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -305,7 +337,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -316,7 +348,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -327,7 +359,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -338,7 +370,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -349,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -360,7 +392,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -371,7 +403,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -393,7 +425,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -415,7 +447,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -426,7 +458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -445,7 +477,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -455,8 +487,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18,
+            9,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
@@ -470,62 +517,96 @@
           "time_info": "01时35分"
         },
         {
-          "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
-          "url": "https://wallstreetcn.com/livenews/3002339",
+          "title": "CoreWeave美股盘后跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3002358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时43分"
         },
         {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
+          "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
+          "url": "https://wallstreetcn.com/livenews/3002339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18,
-            9,
-            17
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时35分]"
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         },
         {
           "title": "普拉格动力（PLUG）美股盘后上涨4%，该公司净营收超过市场预期。",
           "url": "https://wallstreetcn.com/livenews/3002336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251111050530628800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251111050517730800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
+        },
+        {
+          "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3002353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时43分"
+        },
+        {
+          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
+          "url": "https://wallstreetcn.com/livenews/3002343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "费城金银指数收涨4.65%，报291.48点，美股开盘后急剧拉升，随后高位震荡。 纽约证交所ARCA金矿开采商指数收涨4.81%，报2125.04点；北京时间22:30美股开盘之前维持微幅上涨状态、持稳于2040点一线，跟随美股“跳空高开”之后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -534,7 +615,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -556,6 +637,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 06时43分]"
+        },
+        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -567,19 +662,6 @@
           "time_info": "04时43分"
         },
         {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时35分 ~ 05时35分]"
-        },
-        {
           "title": "金价大涨但黄金首饰难卖了",
           "url": "https://www.toutiao.com/trending/7571079598381731371/",
           "source": "今日头条",
@@ -587,11 +669,12 @@
             28,
             24,
             29,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
@@ -630,8 +713,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
@@ -671,8 +754,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
+          "url": "https://wallstreetcn.com/livenews/3002355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
           "url": "https://wallstreetcn.com/livenews/3002253",
@@ -719,11 +813,12 @@
           "url": "https://flash.jin10.com/detail/20251111050157918800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时43分]"
         }
       ]
     },
