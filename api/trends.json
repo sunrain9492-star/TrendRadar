@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T18:55:01.569418+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-11-12T19:37:19.333417+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -148,13 +148,27 @@
           "time_info": "[03时29分 ~ 07时33分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 19时37分]"
+        },
+        {
           "title": "以色列总统办公室：赫尔佐格总统收到美国总统特朗普的来信，信中呼吁他考虑赦免总理内塔尼亚胡。",
           "url": "https://flash.jin10.com/detail/20251112184110534800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -168,19 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 18时55分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -777,6 +778,18 @@
           "time_info": "17时46分"
         },
         {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D7%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D7%26lcate%3D5001%26display_time%3D1762944716%26pre_seqid%3D17629447167060113400808&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时37分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
           "source": "微博",
@@ -787,17 +800,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时36分 ~ 12时47分]"
-        },
-        {
-          "title": "第一批金价下跌卖出的人后悔了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D7%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D7%26lcate%3D5001%26display_time%3D1762944716%26pre_seqid%3D17629447167060113400808&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -872,8 +874,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 19时37分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -893,11 +895,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时37分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -959,7 +962,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -1031,8 +1034,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时32分 ~ 18时55分]"
+          "appearance_count": 15,
+          "time_info": "[07时32分 ~ 19时37分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
