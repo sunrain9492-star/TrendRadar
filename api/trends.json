@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:46:05.879331+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-11-12T18:55:01.569418+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -148,6 +148,17 @@
           "time_info": "[03时29分 ~ 07时33分]"
         },
         {
+          "title": "以色列总统办公室：赫尔佐格总统收到美国总统特朗普的来信，信中呼吁他考虑赦免总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20251112184110534800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
           "url": "https://flash.jin10.com/detail/20251112012840941800",
           "source": "金十数据",
@@ -157,6 +168,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 18时55分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -208,18 +232,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 17时46分]"
         },
         {
           "title": "特朗普发2000美元关税红包但预算说不",
@@ -362,6 +374,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 16时55分]"
+        },
+        {
+          "title": "特朗普警告美最高法院推翻关税后果",
+          "url": "https://www.toutiao.com/trending/7570632471387357225/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "特朗普：参议院通过拨款法案是“重大胜利”",
@@ -689,6 +712,18 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时55分]"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251112050514200800",
           "source": "金十数据",
@@ -723,23 +758,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时40分]"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "受美瑞贸易协议希望和黄金价格提振 瑞士法郎上涨",
@@ -748,7 +772,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -763,6 +787,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时36分 ~ 12时47分]"
+        },
+        {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D7%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D7%26lcate%3D5001%26display_time%3D1762944716%26pre_seqid%3D17629447167060113400808&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -817,7 +852,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -827,6 +862,19 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 18时55分]"
+        },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D2%26lcate%3D5001%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26dgr%3D0%26cate%3D5001%26band_rank%3D2%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26pos%3D1%26c_type%3D31%26display_time%3D1762930545%26pre_seqid%3D1762930545480026499131&launchid=10000360-page_H5",
@@ -841,15 +889,15 @@
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
           "ranks": [
-            30,
-            10
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时55分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -861,17 +909,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
+          "url": "https://wallstreetcn.com/livenews/3002949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时41分]"
         },
         {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
+          "title": "谷歌宣布未来四年在德国投资55亿欧元",
+          "url": "https://flash.jin10.com/detail/20251112003809486800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3002895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "谷歌：支持美国国会通过的关键两党法案，以保护民众免受网络钓鱼侵害。",
+          "url": "https://flash.jin10.com/detail/20251112180704966800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "18时55分"
         }
       ]
     },
@@ -929,48 +1019,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
-          "url": "https://wallstreetcn.com/livenews/3002949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时41分]"
-        },
-        {
-          "title": "谷歌宣布未来四年在德国投资55亿欧元",
-          "url": "https://flash.jin10.com/detail/20251112003809486800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3002895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -983,8 +1031,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 17时46分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 18时55分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
