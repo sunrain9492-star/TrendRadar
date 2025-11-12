@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:51:50.192191+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2025-11-12T22:51:45.071082+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -443,6 +443,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
           "url": "https://flash.jin10.com/detail/20251112010443210800",
           "source": "金十数据",
@@ -487,6 +498,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
           "url": "https://wallstreetcn.com/livenews/3003110",
           "source": "华尔街见闻-快讯",
@@ -498,15 +520,37 @@
           "time_info": "11时37分"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
           "url": "https://wallstreetcn.com/livenews/3003428",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "特朗普宣布：赦免75名支持者",
@@ -523,7 +567,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -567,7 +611,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -658,13 +702,35 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
+          "title": "美股开盘，道指涨0.18%，标普500指数涨0.31%，纳指涨0.41%。英伟达(NVDA.O)涨1.2%，前一交易日收跌约3%。AMD(AMD.O)涨7.58%，公司预计未来三到五年年均营收CAGR将超过35%。Circle(CRCL.N)跌4%。",
+          "url": "https://flash.jin10.com/detail/20251112223021773800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
           "url": "https://wallstreetcn.com/livenews/3003429",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         }
@@ -672,7 +738,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -792,6 +858,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
@@ -1068,8 +1167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时32分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[07时32分 ~ 22时51分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
@@ -1089,7 +1188,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         }
@@ -1118,7 +1217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         }
