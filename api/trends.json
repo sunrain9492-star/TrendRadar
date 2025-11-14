@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T04:41:21.143119+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-15T05:33:55.385177+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -89,6 +89,18 @@
           "time_info": "[03时28分 ~ 04时41分]"
         },
         {
+          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
+          "url": "https://wallstreetcn.com/livenews/3005021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时33分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3004990",
           "source": "华尔街见闻-快讯",
@@ -99,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时28分]"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时33分]"
         },
         {
           "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
@@ -125,6 +149,18 @@
           "time_info": "[01时39分 ~ 02时54分]"
         },
         {
+          "title": "特朗普拟削减部分食品杂货的关税",
+          "url": "https://flash.jin10.com/detail/20251115032227823800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时33分]"
+        },
+        {
           "title": "巴西最高法院小组已形成多数意见，将对议员爱德华多·博索纳罗进行审判，理由是他试图让美国总统特朗普介入前总统博索纳罗的刑事案件。",
           "url": "https://flash.jin10.com/detail/20251115031502911800",
           "source": "金十数据",
@@ -134,28 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
-          "url": "https://wallstreetcn.com/livenews/3005021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "美国白宫：瑞士和列支敦士登打算与美国合作，以确保供应链安全。（外媒更正，非特朗普说话）",
@@ -178,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -268,17 +293,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
           "url": "https://wallstreetcn.com/livenews/3004985",
           "source": "华尔街见闻-快讯",
@@ -304,7 +318,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -314,8 +328,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -325,8 +339,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -337,8 +351,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -348,8 +362,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -385,6 +399,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美股三大股指集体低开 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
           "url": "https://wallstreetcn.com/livenews/3004929",
           "source": "华尔街见闻-快讯",
@@ -410,7 +435,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -421,8 +446,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时33分]"
+        },
+        {
+          "title": "巴菲特旗下伯克希尔三季度建仓谷歌母公司Alphabet，在仓位中位列第十大。",
+          "url": "https://wallstreetcn.com/livenews/3005050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
@@ -435,6 +471,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时41分]"
+        },
+        {
+          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
+          "url": "https://wallstreetcn.com/livenews/3005043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
+          "url": "https://wallstreetcn.com/livenews/3005032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -447,11 +505,12 @@
           "url": "https://wallstreetcn.com/livenews/3005030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时33分]"
         }
       ]
     }
