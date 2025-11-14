@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T05:33:55.385177+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-11-15T06:40:18.923773+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -77,6 +77,30 @@
           "time_info": "[03时28分 ~ 04时41分]"
         },
         {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普拟削减部分食品杂货的关税",
+          "url": "https://flash.jin10.com/detail/20251115032227823800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时40分]"
+        },
+        {
           "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
           "url": "https://wallstreetcn.com/livenews/3005012",
           "source": "华尔街见闻-快讯",
@@ -113,16 +137,16 @@
           "time_info": "[02时54分 ~ 03时28分]"
         },
         {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            15
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时33分]"
+          "time_info": "[05时33分 ~ 06时40分]"
         },
         {
           "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
@@ -147,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时54分]"
-        },
-        {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时33分]"
         },
         {
           "title": "巴西最高法院小组已形成多数意见，将对议员爱德华多·博索纳罗进行审判，理由是他试图让美国总统特朗普介入前总统博索纳罗的刑事案件。",
@@ -192,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "特朗普政府下调美国大豆出口前景预测",
-          "url": "https://wallstreetcn.com/livenews/3005036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -318,7 +319,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -328,19 +329,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2201293",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -351,8 +353,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -362,8 +364,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -388,6 +390,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
+          "url": "https://wallstreetcn.com/livenews/3005057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
           "url": "https://wallstreetcn.com/livenews/3004953",
           "source": "华尔街见闻-快讯",
@@ -405,7 +418,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -435,7 +448,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -443,11 +456,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时40分]"
         },
         {
           "title": "巴菲特旗下伯克希尔三季度建仓谷歌母公司Alphabet，在仓位中位列第十大。",
@@ -456,7 +470,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -477,22 +491,63 @@
           "url": "https://wallstreetcn.com/livenews/3005043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时40分]"
         },
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
           "url": "https://wallstreetcn.com/livenews/3005032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
+          "url": "https://wallstreetcn.com/livenews/3005059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "06时40分"
+        },
+        {
+          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
+          "url": "https://wallstreetcn.com/livenews/3005054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26pos%3D30%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D30%26cate%3D5001%26flag%3D0%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26lcate%3D5001%26dgr%3D0%26display_time%3D1763159848%26pre_seqid%3D176315984802903304675112&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -506,11 +561,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时40分]"
         }
       ]
     }
