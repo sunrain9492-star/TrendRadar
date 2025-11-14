@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:45:39.466761+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2025-11-14T13:41:24.304239+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -77,17 +77,6 @@
           "time_info": "[03时28分 ~ 04时41分]"
         },
         {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时45分]"
-        },
-        {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
@@ -95,8 +84,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时41分]"
+        },
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时41分]"
         },
         {
           "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
@@ -396,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[06时40分 ~ 13时41分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -595,8 +596,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 13时41分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -610,8 +611,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 13时41分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
