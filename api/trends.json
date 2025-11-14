@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T15:38:54.518955+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-11-14T16:56:34.220192+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 16时56分]"
+        },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251114035500120800",
@@ -19,17 +30,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 15时38分]"
-        },
-        {
           "title": "特朗普政府取消阿拉斯加石油储备开采禁令",
           "url": "https://flash.jin10.com/detail/20251114071955731800",
           "source": "金十数据",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美媒：特朗普政府计划扩大食品关税豁免范围",
@@ -158,6 +169,17 @@
           "time_info": "[07时32分 ~ 07时33分]"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
           "url": "https://flash.jin10.com/detail/20251114004309713800",
           "source": "金十数据",
@@ -252,7 +274,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -511,7 +533,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -749,6 +771,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金早盘价为955.38元/克，较国际金价(959.47元/克)，低4.09元/克",
+          "url": "https://flash.jin10.com/detail/20251114110518501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "黄金价格小幅下跌 但本周涨幅有望超4%",
+          "url": "https://flash.jin10.com/detail/20251114164533149800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
+          "url": "https://flash.jin10.com/detail/20251114150805305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -790,28 +851,28 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2025年11月14日（周五）上海金早盘价为955.38元/克，较国际金价(959.47元/克)，低4.09元/克",
-          "url": "https://flash.jin10.com/detail/20251114110518501800",
+          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20251114165105993800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
-          "url": "https://flash.jin10.com/detail/20251114150805305800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            1
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
+          "url": "https://flash.jin10.com/detail/20251114151828738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -832,23 +893,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
-          "url": "https://flash.jin10.com/detail/20251114151828738800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         }
       ]
     }
