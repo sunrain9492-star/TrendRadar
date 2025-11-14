@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T00:52:41.237023+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-15T01:39:07.285002+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -19,6 +19,28 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
+          "url": "https://wallstreetcn.com/livenews/3004988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：再次呼吁特朗普政府发布那些至关重要的经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3004985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
@@ -26,8 +48,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
+        },
+        {
+          "title": "美国白宫：瑞士和列支敦士登打算与美国合作，以确保供应链安全。（外媒更正，非特朗普说话）",
+          "url": "https://flash.jin10.com/detail/20251115012824907800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时39分"
         },
         {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
@@ -50,6 +83,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
+          "url": "https://wallstreetcn.com/livenews/3004972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
+          "url": "https://wallstreetcn.com/livenews/3004971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "消息人士称，特朗普政府中负责能源和核事务的高级官员计划在未来几天与白宫和国家安全委员会会面，以劝阻美国总统特朗普恢复美国的核武器试验。",
+          "url": "https://flash.jin10.com/detail/20251115011647861800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -99,7 +165,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -109,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -120,8 +186,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013327366800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时39分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013245907800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -131,19 +219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3004953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -151,6 +228,17 @@
           "source": "知乎",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
+        },
+        {
+          "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3004953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -192,8 +280,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时39分]"
         }
       ]
     }
