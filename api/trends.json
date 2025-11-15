@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T22:34:41.607724+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-11-15T23:32:10.334305+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 22时34分]"
+          "appearance_count": 9,
+          "time_info": "[16时43分 ~ 23时32分]"
         },
         {
           "title": "特朗普称将向BBC索赔10亿到50亿美元",
@@ -129,6 +129,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
+          "url": "https://flash.jin10.com/detail/20251115224710080800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国参议院民主党成员Warren：再次呼吁特朗普政府发布那些至关重要的经济数据。",
           "url": "https://wallstreetcn.com/livenews/3004985",
           "source": "华尔街见闻-快讯",
@@ -138,6 +149,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
@@ -155,17 +194,18 @@
           "time_info": "[12时42分 ~ 16时43分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            7,
-            11
+            4,
+            17,
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
@@ -179,32 +219,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时39分 ~ 03时28分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -231,6 +245,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时30分 ~ 14时51分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
@@ -299,19 +327,6 @@
           "time_info": "[04时41分 ~ 07时33分]"
         },
         {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
-        },
-        {
           "title": "特朗普抵制G20峰会 南非总统硬刚",
           "url": "https://www.toutiao.com/trending/7572836123530739748/",
           "source": "今日头条",
@@ -347,6 +362,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时32分 ~ 18时39分]"
+        },
+        {
+          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
+          "url": "https://wallstreetcn.com/articles/3759457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
@@ -442,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
-          "url": "https://wallstreetcn.com/articles/3759457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "美国白宫：瑞士和列支敦士登打算与美国合作，以确保供应链安全。（外媒更正，非特朗普说话）",
@@ -639,8 +654,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 22时34分]"
+          "appearance_count": 17,
+          "time_info": "[07时33分 ~ 23时32分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -654,8 +669,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时34分]"
+          "appearance_count": 26,
+          "time_info": "[00时52分 ~ 23时32分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -668,8 +683,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时30分 ~ 23时32分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -833,8 +848,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时30分 ~ 23时32分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -847,8 +862,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时30分 ~ 23时32分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -1001,11 +1016,12 @@
           "ranks": [
             3,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
@@ -1014,11 +1030,12 @@
           "ranks": [
             5,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 23时32分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1026,11 +1043,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时32分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1040,8 +1058,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 23时32分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1049,11 +1067,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时32分]"
         }
       ]
     },
