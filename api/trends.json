@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T22:36:24.909101+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-16T23:33:17.309464+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -57,6 +57,20 @@
           "time_info": "[00时42分 ~ 07时31分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 23时33分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
           "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
@@ -90,18 +104,15 @@
           "time_info": "[00时42分 ~ 07时31分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17,
-            15,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时36分 ~ 22时36分]"
+          "time_info": "[16时50分 ~ 23时33分]"
         },
         {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
@@ -133,28 +144,6 @@
           "time_info": "[13时39分 ~ 17时39分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 22时36分]"
-        },
-        {
-          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
-          "url": "https://flash.jin10.com/detail/20251116221017649800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
           "url": "https://flash.jin10.com/detail/20251116182155589800",
           "source": "金十数据",
@@ -166,6 +155,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时45分 ~ 21时20分]"
+        },
+        {
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -193,6 +194,17 @@
           "time_info": "[11时43分 ~ 12时46分]"
         },
         {
+          "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
+          "url": "https://flash.jin10.com/detail/20251116223106128800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
           "url": "https://news.ifeng.com/c/8oKKiWVdO0C",
           "source": "凤凰网",
@@ -202,12 +214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "博主：特朗普正走向众叛亲离",
+          "url": "https://www.toutiao.com/trending/7573306165895892506/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -281,6 +304,17 @@
           "time_info": "[15时36分 ~ 19时32分]"
         },
         {
+          "title": "伊朗外长：国际制裁不影响俄伊核能合作进程",
+          "url": "https://flash.jin10.com/detail/20251116225212346800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
           "url": "https://flash.jin10.com/detail/20251116183145693800",
           "source": "金十数据",
@@ -324,11 +358,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 22时36分]"
+          "appearance_count": 3,
+          "time_info": "[21时20分 ~ 23时33分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -396,8 +431,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时42分 ~ 22时36分]"
+          "appearance_count": 27,
+          "time_info": "[00时42分 ~ 23时33分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -465,11 +500,12 @@
           "ranks": [
             4,
             5,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 22时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 23时33分]"
         }
       ]
     }
