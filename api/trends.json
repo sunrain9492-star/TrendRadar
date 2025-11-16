@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T19:32:34.913659+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-11-16T21:20:48.036561+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 21时20分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时36分 ~ 19时32分]"
+          "time_info": "[16时50分 ~ 21时20分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
@@ -138,11 +149,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时20分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -156,17 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时39分 ~ 16时50分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时32分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -195,7 +196,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -269,27 +270,17 @@
           "time_info": "[15时36分 ~ 19时32分]"
         },
         {
-          "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
-          "url": "https://flash.jin10.com/detail/20251116184126885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
           "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
           "url": "https://flash.jin10.com/detail/20251116183145693800",
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时20分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
@@ -297,11 +288,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时20分]"
+        },
+        {
+          "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
+          "url": "https://flash.jin10.com/detail/20251116184126885800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时32分]"
+          "time_info": "[19时32分 ~ 21时20分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -326,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时50分 ~ 17时39分]"
+        },
+        {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -369,8 +384,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 19时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 21时20分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -441,8 +456,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 21时20分]"
         }
       ]
     }
