@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T04:37:51.278037+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-17T05:30:36.912849+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -36,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -50,8 +52,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -59,11 +61,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 05时30分]"
         }
       ]
     },
@@ -78,11 +81,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -93,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 05时30分]"
         }
       ]
     },
@@ -108,11 +112,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         },
         {
           "title": "伊朗外长说：暂无正进行的铀浓缩活动",
@@ -122,11 +127,12 @@
             16,
             18,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         }
       ]
     },
@@ -142,8 +148,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时30分]"
         }
       ]
     }
