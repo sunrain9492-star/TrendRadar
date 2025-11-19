@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:29:26.160170+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-11-19T18:29:31.977117+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 18时29分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -44,8 +45,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时30分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时30分 ~ 18时29分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -257,6 +258,19 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时29分]"
+        },
+        {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
           "url": "https://flash.jin10.com/detail/20251119020557608800",
           "source": "金十数据",
@@ -281,16 +295,15 @@
           "time_info": "[02时37分 ~ 03时21分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时29分]"
+          "time_info": "[17时29分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -346,7 +359,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -404,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -492,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美国总统特朗普：我希望鲍威尔现在就下台，我想我已经知道新任美联储主席的人选了。",
@@ -698,7 +711,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -828,6 +841,18 @@
           "time_info": "[11时18分 ~ 12时30分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时29分]"
+        },
+        {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
@@ -871,17 +896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -986,8 +1000,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 18时29分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1014,8 +1028,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时17分 ~ 18时29分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -1028,11 +1042,12 @@
             13,
             16,
             7,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 18时29分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1045,6 +1060,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时29分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1072,20 +1101,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时37分 ~ 07时36分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 17时29分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1285,7 +1300,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1303,6 +1318,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国在9月份减持近400亿美元美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20251119062808557800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "中方再抛5亿美债传递出怎样的信号",
+          "url": "https://www.toutiao.com/trending/7574330336398544425/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1315,8 +1358,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时57分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时57分 ~ 18时29分]"
         }
       ]
     },
@@ -1334,23 +1377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国在9月份减持近400亿美元美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20251119062808557800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
         }
       ]
     }
