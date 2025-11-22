@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-22T19:19:36.474780+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-11-22T20:45:02.940522+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 20时45分]"
+        },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
           "url": "https://v.ifeng.com/c/8oU2xy9xf53",
@@ -19,18 +34,18 @@
           "time_info": "[13时24分 ~ 17时24分]"
         },
         {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
-          "source": "澎湃新闻",
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            9,
+            8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 20时45分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -47,6 +62,19 @@
           "time_info": "[09时52分 ~ 18时25分]"
         },
         {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普批鲍威尔：想立刻炒了你",
           "url": "https://www.douyin.com/hot/2313190",
           "source": "抖音",
@@ -57,32 +85,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 19时19分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 19时19分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -99,6 +101,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时10分 ~ 16时31分]"
+        },
+        {
+          "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251122202749920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
@@ -213,6 +226,19 @@
           "time_info": "[17时24分 ~ 19时19分]"
         },
         {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时45分]"
+        },
+        {
           "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
           "url": "https://wallstreetcn.com/livenews/3008908",
           "source": "华尔街见闻-快讯",
@@ -236,18 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时19分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -350,6 +364,29 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://flash.jin10.com/detail/20251122082422941800",
           "source": "金十数据",
@@ -419,17 +456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 04时29分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -581,7 +607,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -637,8 +663,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 19时19分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 20时45分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -699,6 +725,17 @@
           "time_info": "[07时24分 ~ 13时24分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 20时45分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
           "url": "https://wallstreetcn.com/livenews/3008920",
           "source": "华尔街见闻-快讯",
@@ -711,17 +748,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时25分 ~ 11时10分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "美股深夜反弹 中国资产爆发",
@@ -853,7 +879,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -866,8 +892,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 19时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 20时45分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -922,6 +948,19 @@
           "time_info": "01时23分"
         },
         {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 20时45分]"
+        },
+        {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
           "url": "https://wallstreetcn.com/livenews/3008876",
           "source": "华尔街见闻-快讯",
@@ -934,16 +973,15 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
           "ranks": [
-            26,
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时19分]"
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -956,6 +994,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时22分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
