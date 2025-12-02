@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T11:25:38.327099+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2025-12-02T12:36:29.097077+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             15,
             16,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -57,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -68,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -98,6 +99,17 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时36分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
           "url": "https://wallstreetcn.com/livenews/3013186",
           "source": "华尔街见闻-快讯",
@@ -121,17 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时27分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时25分]"
         },
         {
           "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
@@ -284,7 +285,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -317,7 +318,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -391,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -427,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 11时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 12时36分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -535,6 +536,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时25分]"
+        },
+        {
+          "title": "美股市场全线杀跌发生了什么",
+          "url": "https://www.toutiao.com/trending/7579051553873481270/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -552,8 +564,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时36分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -589,8 +601,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时36分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -632,7 +644,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -651,11 +663,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -667,8 +680,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -704,8 +717,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时36分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -713,11 +726,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -725,18 +739,30 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时36分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
           "url": "https://wallstreetcn.com/livenews/3013184",
@@ -757,9 +783,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
@@ -814,7 +840,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
