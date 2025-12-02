@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T14:41:08.509412+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-12-02T15:28:11.617960+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 14时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -109,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时28分]"
+        },
+        {
+          "title": "特朗普将自己画像与华盛顿并列",
+          "url": "https://www.toutiao.com/trending/7578655836017311798/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 15时28分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -278,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普将自己画像与华盛顿并列",
-          "url": "https://www.toutiao.com/trending/7578655836017311798/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "美制造业PMI连续第九个月处于收缩区间，现货白银一度逼近59美元，特朗普就委内瑞拉局势召开会议，美英就药品定价达成原则性协议......现货金银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -601,8 +602,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 15时28分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -628,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时38分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时41分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -692,6 +693,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
+        },
+        {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
@@ -704,8 +716,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 14时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -718,19 +730,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 14时41分]"
-        },
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -747,6 +748,20 @@
           "time_info": "[00时36分 ~ 05时22分]"
         },
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
+        },
+        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -759,20 +774,6 @@
           "time_info": "[00时36分 ~ 07时25分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时41分]"
-        },
-        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -783,8 +784,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -794,8 +795,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 15时28分]"
         }
       ]
     },
@@ -803,6 +804,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时28分]"
+        },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
           "url": "https://flash.jin10.com/detail/20251202121909836800",
@@ -814,17 +827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时26分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时41分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
