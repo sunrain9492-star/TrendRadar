@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:31:07.707466+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2025-12-11T16:38:11.395656+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -16,8 +16,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 16时38分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -43,17 +57,15 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8,
-            9
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 15时31分]"
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -124,6 +136,18 @@
           "time_info": "[03时10分 ~ 03时24分]"
         },
         {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 16时38分]"
+        },
+        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -172,17 +196,6 @@
           "time_info": "[05时37分 ~ 06时27分]"
         },
         {
-          "title": "美威胁国际刑事法院：不要调查特朗普",
-          "url": "https://www.toutiao.com/trending/7582367829178269750/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
-        },
-        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -205,6 +218,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 10时05分]"
+        },
+        {
+          "title": "美称特朗普重视与华建立建设性关系",
+          "url": "https://www.toutiao.com/trending/7581424867501768730/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：美国总统特朗普为解决乌克兰冲突做出了真诚努力。",
+          "url": "https://flash.jin10.com/detail/20251211161659991800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
@@ -326,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
+          "url": "https://wallstreetcn.com/livenews/3019085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美国总统特朗普：美联储利率应降至全球最低。",
@@ -550,8 +596,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 15时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 16时38分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -919,7 +965,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -941,7 +987,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -1089,8 +1135,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "哈萨克斯坦总统托卡耶夫：伊朗是哈萨克斯坦可靠的中东伙伴，预计2025年双边贸易额将增长40%。",
+          "url": "https://flash.jin10.com/detail/20251211162308344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
         {
           "title": "美国司法部长邦迪：美国已执行了一项扣押令，扣押一艘用于运输委内瑞拉和伊朗受制裁原油的油轮。",
           "url": "https://flash.jin10.com/detail/20251211060423048800",
