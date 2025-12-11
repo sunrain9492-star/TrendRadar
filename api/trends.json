@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:25:45.787387+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2025-12-11T20:59:02.902731+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -46,6 +46,17 @@
           "time_info": "[04时32分 ~ 10时05分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 20时59分]"
+        },
+        {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
           "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
           "source": "凤凰网",
@@ -68,15 +79,15 @@
           "time_info": "[16时37分 ~ 17时33分]"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
           "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 20时59分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -123,17 +134,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时25分]"
-        },
-        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -168,6 +168,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时30分 ~ 16时38分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时59分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -218,18 +230,6 @@
           "time_info": "[05时37分 ~ 06时27分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时25分]"
-        },
-        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -263,6 +263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：美国总统特朗普为解决乌克兰冲突做出了真诚努力。",
@@ -340,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "北约秘书长吕特：美国总统特朗普是唯一能让俄罗斯总统普京坐上谈判桌的人。",
+          "url": "https://flash.jin10.com/detail/20251211203322354800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
@@ -474,6 +496,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "诺贝尔奖得主马查多：美国总统特朗普在委内瑞拉问题上的行动“果断有力”。",
+          "url": "https://flash.jin10.com/detail/20251211201426682800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美国总统特朗普：我认为CNN应该被出售。",
           "url": "https://flash.jin10.com/detail/20251211045339717800",
           "source": "金十数据",
@@ -568,7 +601,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -685,8 +718,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 19时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 20时59分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1054,6 +1087,79 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时24分]"
+        },
+        {
+          "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
+          "url": "https://wallstreetcn.com/livenews/3018591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "法巴银行：在美联储降息后平仓10年期美债空头",
+          "url": "https://flash.jin10.com/detail/20251211170943666800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3018697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "机构：高赤字削弱长期美债吸引力",
+          "url": "https://flash.jin10.com/detail/20251211200521105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
+          "url": "https://wallstreetcn.com/livenews/3018647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1113,68 +1219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时24分]"
-        },
-        {
-          "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
-          "url": "https://wallstreetcn.com/livenews/3018591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "法巴银行：在美联储降息后平仓10年期美债空头",
-          "url": "https://flash.jin10.com/detail/20251211170943666800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3018697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
-          "url": "https://wallstreetcn.com/livenews/3018647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     },
@@ -1305,6 +1349,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时00分 ~ 12时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         }
       ]
     }
