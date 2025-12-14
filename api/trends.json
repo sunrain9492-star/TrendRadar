@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:27:07.692974+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2025-12-14T18:26:48.259492+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -262,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时26分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -379,7 +379,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -390,7 +390,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -401,7 +401,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -464,8 +464,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 18时26分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -510,11 +510,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时27分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 18时26分]"
         }
       ]
     }
