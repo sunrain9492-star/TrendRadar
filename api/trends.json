@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:22:41.127899+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-28T20:53:14.227722+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 20时53分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -84,17 +97,15 @@
           "time_info": "[16时34分 ~ 19时22分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时53分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -210,7 +210,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -263,8 +263,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时11分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 20时53分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -358,6 +358,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时53分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -368,18 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 12时12分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 19时22分]"
         }
       ]
     },
