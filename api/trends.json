@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T15:32:15.807543+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-12-29T16:40:14.703138+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时25分]"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时40分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -125,6 +137,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 16时40分]"
         },
         {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
@@ -240,15 +264,18 @@
           "time_info": "[03时21分 ~ 07时25分]"
         },
         {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
           "ranks": [
-            10
+            24,
+            23,
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时32分]"
+          "time_info": "[13时35分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
@@ -286,6 +313,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 16时40分]"
         },
         {
           "title": "特朗普称，若有助于达成俄乌和平协议，不排除访问乌克兰的可能性",
@@ -373,41 +412,6 @@
           "time_info": "[10时21分 ~ 13时35分]"
         },
         {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 15时32分]"
-        },
-        {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时32分]"
-        },
-        {
           "title": "特朗普称俄乌“接近达成协议”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
           "source": "百度热搜",
@@ -442,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时26分]"
+        },
+        {
+          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
+          "url": "https://www.cls.cn/detail/2242304",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
@@ -765,7 +780,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
