@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:35:26.617755+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-01-07T18:32:07.326734+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时08分 ~ 17时35分]"
+          "appearance_count": 12,
+          "time_info": "[10时08分 ~ 18时32分]"
         },
         {
           "title": "特朗普不满马杜罗：他学我跳舞",
@@ -83,6 +83,17 @@
           "time_info": "[00时37分 ~ 07时27分]"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时05分 ~ 18时32分]"
+        },
+        {
           "title": "曝特朗普对委动手前曾暗示油企高管",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时05分 ~ 17时35分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -158,6 +158,17 @@
           "time_info": "[10时08分 ~ 13时32分]"
         },
         {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -186,6 +197,18 @@
           "time_info": "[10时08分 ~ 14时43分]"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -195,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        },
-        {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -269,18 +281,6 @@
           "time_info": "[13时32分 ~ 14时43分]"
         },
         {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时35分]"
-        },
-        {
           "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
           "url": "https://flash.jin10.com/detail/20260107055329321800",
           "source": "金十数据",
@@ -339,6 +339,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
@@ -460,16 +485,15 @@
           "time_info": "[05时28分 ~ 06时29分]"
         },
         {
-          "title": "美参院民主党领袖批特朗普对委行动",
-          "url": "https://www.toutiao.com/trending/7591542867982614564/",
-          "source": "今日头条",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时35分]"
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普模仿举重动作嘲讽跨性别运动员",
@@ -511,9 +535,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
@@ -525,17 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -566,7 +590,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -610,7 +634,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -687,7 +711,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -964,7 +988,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1081,7 +1105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1135,11 +1159,12 @@
             21,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 17时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 18时32分]"
         },
         {
           "title": "伊朗外交部长称正在寻求扩大与黎巴嫩的关系。",
@@ -1148,7 +1173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1213,7 +1238,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1228,6 +1253,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时27分]"
+        },
+        {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
@@ -1286,7 +1322,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
