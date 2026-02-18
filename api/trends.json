@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:56:45.329485+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-02-18T19:43:58.321085+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -44,6 +44,17 @@
           "time_info": "[00时00分 ~ 06时39分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时43分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时06分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时56分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -89,17 +89,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -120,6 +109,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时44分 ~ 15时55分]"
+        },
+        {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
@@ -156,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时43分]"
         },
         {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
@@ -205,17 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时44分 ~ 15时55分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时56分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -442,6 +443,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "市场消息：德国计划大幅扩展其外国情报机构的权力，担心特朗普可能会停止情报共享。",
+          "url": "https://flash.jin10.com/detail/20260218185830971800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普：美日贸易协议已正式启动 日本对美首批投资计划将涵盖三大战略项目",
           "url": "https://flash.jin10.com/detail/20260218043007197800",
           "source": "金十数据",
@@ -451,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218185306479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
@@ -470,7 +493,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -478,7 +501,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -527,6 +550,32 @@
           "time_info": "[10时44分 ~ 15时55分]"
         },
         {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 19时43分]"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 19时43分]"
+        },
+        {
           "title": "哈梅内伊：美国无法摧毁伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
           "source": "澎湃新闻",
@@ -537,18 +586,6 @@
             9,
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 18时56分]"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -566,17 +603,15 @@
           "time_info": "[00时00分 ~ 01时09分]"
         },
         {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
+          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
+          "url": "https://flash.jin10.com/detail/20260218192602169800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            6,
-            14
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 18时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
@@ -737,7 +772,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -803,7 +838,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -821,8 +856,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 19时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -835,8 +870,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时00分 ~ 18时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时00分 ~ 19时43分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -858,8 +893,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 19时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -943,6 +978,18 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时43分]"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -965,17 +1012,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时56分]"
         },
         {
           "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
@@ -1071,7 +1107,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
@@ -1107,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 12时59分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
@@ -1148,7 +1195,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
