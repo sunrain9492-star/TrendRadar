@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:44:38.459761+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-02-25T21:31:13.318300+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -64,11 +64,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时11分 ~ 19时44分]"
+          "appearance_count": 17,
+          "time_info": "[02时11分 ~ 21时30分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -127,6 +128,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 14时09分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时31分]"
         },
         {
           "title": "特朗普：伊朗正研制能打到美国的导弹",
@@ -198,17 +234,6 @@
           "time_info": "10时42分"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "美国总统特朗普：上届政府在美国获得的新增投资不到1万亿美元。",
           "url": "https://flash.jin10.com/detail/20260225103643653800",
           "source": "金十数据",
@@ -231,15 +256,16 @@
           "time_info": "07时40分"
         },
         {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时31分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -264,18 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时44分]"
         },
         {
           "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
@@ -422,6 +436,17 @@
           "time_info": "[05时42分 ~ 06时40分]"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "美议员称宁愿瞎也不想听特朗普演说",
           "url": "https://www.toutiao.com/trending/7610278765754794003/",
           "source": "今日头条",
@@ -431,17 +456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -824,7 +838,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -997,7 +1011,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1019,11 +1033,12 @@
           "ranks": [
             2,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时58分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 21时31分]"
         },
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -1121,6 +1136,17 @@
           "time_info": "15时57分"
         },
         {
+          "title": "德国外长：伊朗必须停止对哈马斯、真主党和胡塞武装的支持。",
+          "url": "https://flash.jin10.com/detail/20260225210414622800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://wallstreetcn.com/livenews/3058301",
           "source": "华尔街见闻-快讯",
@@ -1196,7 +1222,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -1347,7 +1373,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1415,7 +1441,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -1567,9 +1593,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "美股期货维持涨势，纳斯达克100指数期货涨0.5%。美国贸易代表格里尔重申第122、301和232条作为关税的替代方案。暗示部分关税可能会高于15%。",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -1581,6 +1618,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -1638,56 +1736,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价暴涨下的众生相",
-          "url": "https://www.toutiao.com/trending/7610085865549905966/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20260225150843874800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
-          "url": "https://flash.jin10.com/detail/20260225150719104800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
-          "url": "https://flash.jin10.com/detail/20260225150243003800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1698,7 +1746,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -1767,7 +1815,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
