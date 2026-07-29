@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T18:45:38.508340+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-07-29T21:06:16.026979+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -55,6 +55,17 @@
           "time_info": "[00时45分 ~ 06时11分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 21时06分]"
+        },
+        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
@@ -90,6 +101,20 @@
           "time_info": "02时20分"
         },
         {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 21时06分]"
+        },
+        {
           "title": "伊朗副外长：阿曼方面曾希望引入一个国家，负责对霍尔木兹海峡南部航道进行排雷，但我们没有同意。",
           "url": "https://flash.jin10.com/detail/20260729004130784800",
           "source": "金十数据",
@@ -107,9 +132,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "美军警告驻中东士兵勿上传基地遇袭视频 防止被伊朗利用",
+          "url": "https://wallstreetcn.com/livenews/3141708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗副外长：美国人通过阿曼向我们传达消息，称他们不会对我们采取军事行动。",
@@ -145,17 +181,6 @@
           "time_info": "00时45分"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 18时45分]"
-        },
-        {
           "title": "美以领导人会晤，聚焦伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3141150",
           "source": "华尔街见闻-快讯",
@@ -166,19 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 04时20分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 18时45分]"
         },
         {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
@@ -214,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 02时20分]"
+        },
+        {
+          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/articles/3778174",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -300,7 +323,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -314,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美媒：美国武器库存持续缩减，与伊朗的冲突尚无彻底结束的迹象",
+          "url": "https://flash.jin10.com/detail/20260729204505169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗副外长：我们必须切断战争、停火与谈判的循环。",
@@ -498,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -542,9 +576,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "伊朗谴责美国沙特袭击伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3141668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗外交部长：伊朗也不寻求局势升级，但任何针对我方公民或利益的攻击都是不可接受的，必须对损失进行赔偿。",
@@ -616,7 +661,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -637,7 +682,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -650,8 +695,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 21时06分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时47分 ~ 18时45分]"
+          "time_info": "[18时45分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时06分]"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -698,6 +765,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "特朗普称将对伊朗进行猛烈打击 原油价格大涨",
+          "url": "https://wallstreetcn.com/livenews/3141701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "以色列官员：内塔尼亚胡与特朗普会晤期间并未提及镐山。有关以色列提交相关情报的报道为“假消息”。",
           "url": "https://flash.jin10.com/detail/20260729015519926800",
           "source": "金十数据",
@@ -707,17 +785,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
@@ -740,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普政府将终止医疗保险药物计划补贴。",
@@ -792,7 +848,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -814,7 +870,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -883,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "市场消息：消息人士称，美国总统特朗普、美联航首席执行官柯比将公布220亿美元的计划，以扩建和改善华盛顿杜勒斯机场。",
+          "url": "https://flash.jin10.com/detail/20260729203607954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
@@ -954,7 +1021,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -985,6 +1052,19 @@
           "time_info": "[00时45分 ~ 18时45分]"
         },
         {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 21时06分]"
+        },
+        {
           "title": "美股半导体崩盘,闪迪跌破新低",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
           "source": "贴吧",
@@ -1008,18 +1088,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 04时20分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 18时45分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -1047,6 +1115,18 @@
           "time_info": "[00时45分 ~ 06时11分]"
         },
         {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时06分]"
+        },
+        {
           "title": "美股收盘：AI概念延续“血色一夜”",
           "url": "https://www.toutiao.com/trending/7667714133717945882/",
           "source": "今日头条",
@@ -1069,17 +1149,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -1090,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时11分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "美股光通信、存储大跌 闪迪跌逾14%",
