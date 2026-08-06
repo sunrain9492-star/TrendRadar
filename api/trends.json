@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-08-06T21:01:23.885648+08:00",
-  "total_titles_processed": 1403,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-08-06T23:30:54.716512+08:00",
+  "total_titles_processed": 1547,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -31,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 23时30分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -43,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 21时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 23时30分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -103,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 12时18分]"
+        },
+        {
+          "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
+          "url": "https://www.zhihu.com/question/2068728009981440588",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -287,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -342,7 +351,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -463,7 +472,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -526,7 +535,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -789,6 +798,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "白宫：特朗普有权按公民身份达对美联储的看法，“三军统帅”也有这样的责任",
+          "url": "https://wallstreetcn.com/livenews/3146119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普小跑着保护险些摔下台的幼童",
           "url": "https://www.toutiao.com/trending/7670741330352734262/",
           "source": "今日头条",
@@ -869,7 +889,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -908,6 +928,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 15时44分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
@@ -991,6 +1022,17 @@
           "time_info": "[12时18分 ~ 15时44分]"
         },
         {
+          "title": "软件股美股早盘普遍下挫，投资者关注Datadog、Figma等公司的业绩",
+          "url": "https://wallstreetcn.com/livenews/3146124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
           "url": "https://wallstreetcn.com/livenews/3145584",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1077,28 @@
           "time_info": "06时17分"
         },
         {
+          "title": "SpaceX涨超5%，刷新日高。 美股盘初，特斯拉与美国得州州长宣布，SpaceX在Grimes县扩建，Terafab一期项目意味着168亿美元资本开支投资，SpaceX将在Grimes县建设芯片设施。",
+          "url": "https://wallstreetcn.com/livenews/3146110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "疯狂补仓撑起美股反弹，专家警告：对冲抛压可能会卷土重来！",
+          "url": "https://flash.jin10.com/detail/20260806221403559800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
           "url": "https://wallstreetcn.com/livenews/3145958",
           "source": "华尔街见闻-快讯",
@@ -1049,7 +1113,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -1078,11 +1142,23 @@
           "url": "https://www.zhihu.com/question/2068498722300990537",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 23时30分]"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -1179,7 +1255,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1201,7 +1277,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
@@ -1209,7 +1285,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -1222,8 +1298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 23时30分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -1236,6 +1312,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 02时27分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 23时30分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 23时30分]"
         },
         {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
@@ -1251,17 +1355,16 @@
           "time_info": "[15时44分 ~ 21时00分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            7,
-            8
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 23时30分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -1288,19 +1391,6 @@
           "time_info": "[12时18分 ~ 18时45分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 21时01分]"
-        },
-        {
           "title": "DeepSeek拟调高API价格",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -1314,15 +1404,15 @@
           "time_info": "[15时44分 ~ 21时01分]"
         },
         {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -1353,7 +1443,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
@@ -1361,7 +1451,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -1396,6 +1486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
+          "url": "https://www.zhihu.com/question/2068662948407546390",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "OpenAI反击苹果商业机密诉讼：称指控“毫无依据”，要求法院驳回案件",
@@ -1456,7 +1557,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
@@ -1467,8 +1568,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 21时00分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 23时30分]"
+        },
+        {
+          "title": "水贝金价两天涨了近50元 购金逻辑正在发生明显变化",
+          "url": "https://flash.jin10.com/detail/20260806225014565800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -1491,6 +1603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "水贝金价两天涨了近50元",
+          "url": "https://wallstreetcn.com/livenews/3146122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "金十图示：2026年08月06日（周四）上海金午盘价为923.43元/克，较国际金价(924.77元/克)，低1.34元/克",
@@ -1518,7 +1641,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
@@ -1563,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "彭博美元指数涨0.1%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3146104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         }
       ]
     },
@@ -1577,7 +1711,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
