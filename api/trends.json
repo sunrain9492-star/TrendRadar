@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:06:03.157509+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-08-17T17:50:39.144890+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 17时50分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 17时50分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -162,11 +162,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 17时50分]"
         },
         {
           "title": "特朗普已指示“大幅缩减”美韩军演",
@@ -383,6 +384,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "据CNN：美国特使库什纳正在与以色列总理内塔尼亚胡会面，试图推动特朗普政府陷入停滞的加沙和平计划。此前一天，库什纳曾与哈马斯方面会谈。",
+          "url": "https://flash.jin10.com/detail/20260817173012578800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
           "url": "https://flash.jin10.com/detail/20260817053245864800",
           "source": "金十数据",
@@ -441,7 +453,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -473,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 17时50分]"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -622,6 +634,17 @@
           "time_info": "[00时33分 ~ 03时26分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 17时50分]"
+        },
+        {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
           "url": "https://wallstreetcn.com/livenews/3150063",
           "source": "华尔街见闻-快讯",
@@ -631,17 +654,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 03时26分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
@@ -677,13 +689,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗国家石油公司首席执行官表示，战争期间燃料生产和供应持续进行，未曾中断。",
+          "url": "https://flash.jin10.com/detail/20260817173746213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "伊朗农业部长：粮食安全无虞 一切尽在掌控",
           "url": "https://flash.jin10.com/detail/20260817143305617800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -694,7 +717,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -705,7 +728,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -716,7 +739,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -732,6 +755,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "伊朗否认伊美谅解备忘录规定“60天期限”",
+          "url": "https://wallstreetcn.com/livenews/3150378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "伊朗议会通过一项反渗透法案",
           "url": "https://flash.jin10.com/detail/20260817102451610800",
           "source": "金十数据",
@@ -741,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "伊朗称正在起草与阿曼的海上航线计划",
+          "url": "https://wallstreetcn.com/livenews/3150377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
@@ -803,11 +848,12 @@
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 17时50分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
@@ -971,8 +1017,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 17时50分]"
         }
       ]
     },
@@ -980,6 +1026,19 @@
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 17时50分]"
+        },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
           "url": "https://www.toutiao.com/trending/7674607374035848723/",
@@ -991,18 +1050,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 03时26分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时06分]"
         }
       ]
     },
